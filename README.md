@@ -84,7 +84,7 @@
 ### Operations, iterations and closures
 
 ## Temporal thinking
-- chronological, state-based and event-based
+- chronological, state-based and event-based (discrete vs. continuous)
 - striking connections with timeless, stateless thinking!
 ### States, transitions, state machines (automata)
 
@@ -130,15 +130,35 @@
   - but humans are story-oriented creatures.
 - Connection with structural thinking: self-similar structures (fractals).
 
-## ***Back to the human side:***
-
-## Metacognition (or meta-thinking)
+## Meta-thinking
 - All these ways of thinking can *compound* and *recurse* on each other:
   - we can have a pattern that generalizes to a bigger domain,
   - which satisfies some predicates that define a modality,
   - which has a connection with another predicate from a bigger pattern,
   - and this connection has a form that applies more generally to other connections between other domains,
   - and so on and so on infinitely!
+- Good example: going from Gauss-Bonnet theorem to Riemann-Roch theorem to Atiyah-Singer index theorem.
+
+## ***Back to the human side:***
+
+## Metacognition
+- Being aware of one's own thought processes.
+- Very closely related to meta-knowledge (see below).
+### Self-reflection and self-criticism
+### The rubber-ducky (or platypus) method
+- Projection onto others (get out of your own head!),
+- Empathy, and the "teacher's mind".
+
+### Meta-cognitive vocabulary starter pack
+- Have I *overlooked* something *obvious*?
+- Have I considered all the *possibilities*?
+- Have I used too little or too much *soft focus* or *hard focus*?
+- Do I have the right *approach*?
+- Am I aware of the *big picture* / *small picture*?
+- What is the *context*? What are the *implicit assumptions*?
+- Which *modality* and *paradigm* are best suited for this?
+- Did I take a *shortcut*? If so, *why*?
+- Can I *explain / teach* this to *someone else*?
 
 ## Implicit and explicit knowledge
 - Assumptions and "background knowledge" are unavoidable, and necessary.
@@ -163,6 +183,7 @@
 - I don't know *something*.
   - Sometimes I don't know that I don't know something.
   - Sometimes I can *feel* that I lack something, but I don't know *what it is that I don't know.*
+    - I call this ***hitting the wall of meta-knowledge.*** (OUCH)
   - I know what I lack, but I don't know where to go or how to acquire it.
 - I know what others don't, or I don't know what others know.
   - Others don't know that I know something.
