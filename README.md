@@ -122,7 +122,7 @@
 - The whole *equals* the sum of the parts.
 - This works with wishful thinking.
 
-## Recursive thinking,
+## Recursive thinking
 - Self-reference and self-similarity (fractals)
 - This is found in nature, biology recurs (insert fractal broccoli picture here)
 - Notoriously difficult for humans!
