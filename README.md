@@ -154,25 +154,37 @@
 - Have I considered all the *possibilities*?
 - Have I used too little or too much *soft focus* or *hard focus*?
 - Do I have the right *approach*?
-- Am I aware of the *big picture* / *small picture*?
+- Am I aware of the *big picture / small picture*?
+- Is my approach *too general* or *too specific*?
 - What is the *context*? What are the *implicit assumptions*?
 - Which *modality* and *paradigm* are best suited for this?
 - Did I take a *shortcut*? If so, *why*?
+- I know it works, but *why / how*?
+- Is my approach *necessary*, or *contingent* (just *happens to work*)?
 - Can I *explain / teach* this to *someone else*?
+- Do others think about this *differently* than I do?
 
 ## Implicit and explicit knowledge
 - Assumptions and "background knowledge" are unavoidable, and necessary.
 - Always keep "dancing back and forth" between:
   - implicit and explicit knowledge,
-  - syntax and semantics
+  - syntax and semantics,
+  - formal and informal,
+  - abstract and concrete,
+  - yourself and others,
+  - theoretical and practical.
 - Being aware of:
   - what's needed,
   - what's missing,
   - the surrounding context,
   - to which paradigm / modality something belongs,
   - self and other-knowledge (see below).
+- Make it explicit!
+  - Play the role of "math lawyer": write a *bullet-proof definition*.
 ### Implicit conversions
+- Converting one idea / concept / assumption to another, without being aware of it.
 - Found in math, programming, and a natural function of our brains.
+  - which makes it an interesting example of meta-thinking!
 - It happens all the time without us noticing.
 
 ## Metaknowledge
@@ -190,14 +202,16 @@
   - I know that I know something but I can't explain it to others.
     - I'm not sure if *they* know what I'm talking about.
     - Are they missing some prerequisite knowledge to understand it?
+  - I can't understand what others "see" in something.
+    - They get it, I don't, and I'm not sure why.
+    - Am I missing some prerequisite knowledge to understand it?
 
 # How to think intuitively
 - https://betterexplained.com/articles/developing-your-intuition-for-math/
 
 # How to think abstractly
-```
-Quantities -> Numbers -> Algebra -> Functions -> Vector Spaces -> Categories
-```
+![abstraction-hierarchy](abstraction.png)
+
 - Here, we can add logic as an external meta-abstraction that applies to ALL of these.
   - With arrows pointing from Logic to each one.
 
