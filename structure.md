@@ -2,5 +2,5 @@
 
 ## Work in progress!
 
-[Back to Elements](README.md##structural-thinking)
+[Back to Elements](README.md#structural-thinking)
 
