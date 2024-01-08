@@ -1,3 +1,5 @@
+![can-of-worms](images/worms.png)
+
 # Elements of Abstract Thinking
 
 Welcome to the world of ***abstract nonsense!***
@@ -37,7 +39,7 @@ The journey went like this:
 7. I suggested a much gentler, easier resource (Susanna Epp's book).
 8. Students still struggled with that.
 
-#### Caught the culprit
+### Opening a can of worms
 
 The culprit seems to be the lack of abstract thinking skills, ***whatever the hell that is!***
 

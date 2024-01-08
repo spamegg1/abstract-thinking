@@ -1,6 +1,6 @@
 # Recursive thinking
 
-<img src="images/broccoli.jpg" alt="broccoli" style="zoom:25%;" />
+![broccoli](images/broccoli.png)
 
 ## Work in progress!
 
