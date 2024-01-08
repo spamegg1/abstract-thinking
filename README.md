@@ -1,5 +1,64 @@
 # Elements of Abstract Thinking
 
+Welcome to the world of ***abstract nonsense!***
+
+## Motivation
+
+![dont-know-1](images/dontKnow1.png)
+
+![dont-know-2](images/dontKnow2.png)
+
+I've been trying to figure out the underlying reasons why many are struggling with mathematics and computer science, *even when they have great resources and they study the subjects.* 
+
+### The Usual Suspects
+
+> ***It soon became clear that the unconscious instincts for logic and language which had enabled me to succeed were not shared by  the large majority of my students.*** - Susanna Epp (author of [Discrete Mathematics with Applications, 5th edition](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-ebook/dp/B07M87BWRC))
+
+![abstract-thinking-1](images/abstractThinking.png)
+
+I don\'t accept the general / genetic explanation that "they're just not smart enough."
+
+![dont-know-3](images/dontKnow3.png)
+
+![dont-know-4](images/dontKnow4.png)
+
+It seems there is something else going on. Even after finishing courses and passing tests / exams, or, *going through the motions*, students say "I don't feel like I've understood it."
+
+### Journey
+
+The journey went like this:
+
+1. Students taking programming language theory, especially parts that are *rich in recursive thinking*, struggled.
+2. First I falsely diagnosed the issue to be *recursion* and suggested studying it earlier. 
+3. That didn't help much.
+4. I noticed the issue goes beyond recursion, and is more about having a poor mathematical background in general. 
+5. I suggested taking Mathematics for Computer Science earlier.
+6. Some students could not make it past even Chapter 1, section 1 of Math for CS.
+7. I suggested a much gentler, easier resource (Susanna Epp's book).
+8. Students still struggled with that.
+
+#### Caught the culprit
+
+The culprit seems to be the lack of abstract thinking skills, ***whatever the hell that is!***
+
+Also the lack of problem solving skills, which are deeply connected to abstract thinking (breaking down a problem, modeling it, understanding the problem space, conceptualizing a solution...)
+
+There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I believe it *can be taught.*
+
+***And here we are...***
+
+## What this is:
+
+- A loose collection of the common abstract patterns and ways of thinking found everywhere, which
+  - are *implicit* and *invisible*,
+  - *underlie* all the subjects we study.
+- It's ***an extremely rough draft for now***, hopefully it will be fleshed out later, with lots of examples. 
+  - So, there are probably many references to things you don't know right now.
+- This is about ***abstract thinking within the context of mathematics and computer science.***
+  - There are similarities to the scientific method:
+    - observations, hypotheses, evidence, testing 
+  - but they are not the focus.
+
 ## What this is *not*:
 
 - This is not about abstract thinking in the broadest sense:
@@ -10,10 +69,10 @@
   - in military,
   - in decision making,
   - etc.
-- This is about ***abstract thinking within the context of mathematics and computer science.***
-  - There are similarities to the scientific method:
-    - observations, hypotheses, evidence, testing 
-  - but they are not the focus.
+- This is not comprehensive, or hierarchical / strictly organized:
+  - thinking patterns are tied to each other in a messy tangled web, it's near impossible to make them hierarchical. 
+  - Hence, "elements."
+
 
 ## ***First, the human side of things:***
 
@@ -78,7 +137,7 @@
 
 [Link to Modalities section](modality.md)
 
-- Changing the "active agent", the "nature of truth" (epistemology) and the input-output relations:
+- Changing the "active agent", the "nature of truth / knowledge" (epistemology) and the input-output relations:
   - "something is true" vs. "I know something is true",
   - "necessary truth" vs. "possible truth" vs. "contingent truth",
   - calculating vs. proving vs. exploring vs. guessing / heuristics,
@@ -88,18 +147,7 @@
 
 [Link to Paradigms section](paradigm.md)
 
-- Changing the focal point through which the world is viewed and expressed:
-  - Calculus / analysis / continuous math:
-    - "Everything is whole, together, inseparable, uncountable, unreal, and infinitesimally smooth."
-    - "Best we can hope for is a local approximation that gets precise at infinity."
-  - Discrete math: "Everything is separate, individual, countable, jagged, real and precise."
-  - OOP: "I, the object, am the center of the world."
-    - Everything is local, noun-based and locally-state-based.
-  - FP: "Universal verbs from the heavens (functions) act on us all."
-    - Everything is global, verb-based but no state (timeless).
-  - Logic P: "Everything is a proof search tree. Nothing else exists." 
-  - Imperative P: "World is a chaotic mess of forever changing states. Keep up with it!"
-    - Everything is global, temporal, side-effect-based and globally-state-based.
+- Changing the focal point through which the world is viewed and expressed.
 
 ## Domain modeling
 
@@ -127,18 +175,13 @@
 - Algebraic, topological, relational, and order structures.
 - Combined, rich, complex structures: analytical, geometric, ergodic / stochastic.
 
-### Spaces and transformations
-### Operations, iterations and closures
-
 ## Temporal thinking
 
 [Link to the Time section](time.md)
 
 - chronological, state-based and event-based (discrete vs. continuous)
 - Mutation
-- striking connections with timeless, stateless thinking!
-
-### States, transitions, state machines (automata)
+- connections with timeless, stateless thinking, and rule-based thinking.
 
 ## Axiomatic thinking
 
@@ -159,14 +202,24 @@
 - Fruitful interaction with axiomatic thinking: negate the axioms!
   - Power of negation: [Hyperbolic geometry](https://www.youtube.com/watch?v=lFlu60qs7_4)
 
-## Generalization and Specialization
+## Abstraction
 
-- Universal (for all) and existential (there exists) quantification.
-- Abstraction and reification (concretization).
+[Link to Abstraction section](abstract.md)
+
+### Generalization and Specialization
+
+- Universal and existential quantification.
+- Parametrization.
+- Contextual generalization (connection to implicits.)
+- Abstraction and reification.
 
 ### Higher-order and categorical thinking
 
+[Link to Categorical section](categoric.md)
+
 ## Rule-based thinking
+
+[Link to Rule-based Thinking section](rulebased.md)
 
 - Completely controlled world that:
   - obeys rules,
@@ -174,6 +227,9 @@
   - offers strict guarantees (invariants).
 
 ## Reductionist (atomic) thinking
+
+[Link to Atomic thinking section](atomic.md)
+
 - Break into smaller parts,
   - then even smaller,
   - then even smaller than that,
@@ -194,6 +250,9 @@
 - Connection with structural thinking: self-similar structures (fractals).
 
 ## Meta-thinking
+
+[Link to Meta thinking section](meta.)
+
 - All these ways of thinking can *compound* and *recurse* on each other:
   - we can have a pattern that generalizes to a bigger domain,
   - which satisfies some predicates that define a modality,
@@ -206,121 +265,29 @@
 
 ## Metacognition
 
-- Being aware of one's own thought processes.
-- Very closely related to meta-knowledge (see below).
-
-### Self-reflection and self-criticism
-
-### The rubber-ducky (or platypus) method
-- Projection onto others (get out of your own head!),
-- Empathy, and the "teacher's mind".
-
-### Meta-cognitive vocabulary starter pack
-- Have I *overlooked* something *obvious*?
-- Have I considered all the *possibilities*?
-- Have I used too little or too much *soft focus* or *hard focus*?
-- Do I have the right *approach*?
-- Am I aware of the *big picture / small picture*?
-- Is my approach *too general* or *too specific*?
-- What is the *context*? What are the *implicit assumptions*?
-- Which *modality* and *paradigm* are best suited for this?
-- Did I take a *shortcut*? If so, *why*?
-- I know it works, but *why / how*?
-- Is my approach *necessary*, or *contingent* (just *happens to work*)?
-- Can I *explain / teach* this to *someone else*?
-- Do others think about this *differently* than I do?
+[Link to Metacognition section](metacog.md)
 
 ## Implicit and explicit knowledge
-- Assumptions and "background knowledge" are unavoidable, and necessary.
-- Always keep "dancing back and forth" between:
-  - implicit and explicit knowledge,
-  - syntax and semantics,
-  - formal and informal,
-  - abstract and concrete,
-  - yourself and others,
-  - theoretical and practical.
-- Being aware of:
-  - what's needed,
-  - what's missing,
-  - the surrounding context,
-  - to which paradigm / modality something belongs,
-  - self and other-knowledge (see below).
-- Make it explicit!
-  - Play the role of "math lawyer": write a *bullet-proof definition*.
-### Implicit conversions
-- Converting one idea / concept / assumption to another, without being aware of it.
-- Found in math, programming, and a natural function of our brains.
-  - which makes it an interesting example of meta-thinking!
-- It happens all the time without us noticing.
 
-## Metaknowledge
+[Link to Implicit and Explicit knowledge section](implicit.md)
 
-- I know something.
-  - I know that I know it.
-  - I *learned it*, I *should* know it but I'm not confident.
-  - To convince myself I should teach it to others.
-- I don't know *something*.
-  - Sometimes I don't know that I don't know something.
-  - Sometimes I can *feel* that I lack something, but I don't know *what it is that I don't know.*
-    - I call this ***hitting the wall of meta-knowledge.*** (OUCH)
-  - I know what I lack, but I don't know where to go or how to acquire it.
-- I know what others don't, or I don't know what others know.
-  - Others don't know that I know something.
-  - I know that I know something but I can't explain it to others.
-    - I'm not sure if *they* know what I'm talking about.
-    - Are they missing some prerequisite knowledge to understand it?
-  - I can't understand what others "see" in something.
-    - They get it, I don't, and I'm not sure why.
-    - Am I missing some prerequisite knowledge to understand it?
+## Meta-knowledge
 
-# How to think intuitively
-- https://betterexplained.com/articles/developing-your-intuition-for-math/
+[Link to Meta-knowledge section](metaknow.md)
 
-# How to think abstractly
-![abstraction-hierarchy](images/abstraction.png)
+- Knowledge can have a recursive nature. So you can get stuck:
+  - "I don't know what I don't know", or 
+  - "I can't figure out why I can't figure things out."
 
-- Here, we can add logic as an external meta-abstraction that applies to ALL of these.
-  - With arrows pointing from Logic to each one.
 
-- Start with real-world, often physical, observations of objects,
-- Remove "special properties" (or "context") from the real world:
-  - If you are looking at a picture with three different lions, remove their differences,
-  - and then remove their "animalness", etc.
-  - this is called making it "context-free".
-- Look for:
-  - relations between them,
-  - operations that act on them,
-  - properties they might have.
-  - This is the most difficult part and cannot be taught completely.
-- Now see if the objects can be replaced with others.
-  - Do the properties / relations still hold?
-- Now see if the operations could be replaced with others:
-  - Do they still work?
+# Intuition and intuitive thinking
+
+[Link to Intuition section](intuit.md)
+
+- Our brains taking subconscious shortcuts and making invisible connections.
 
 # Problem solving
 
 [Link to Problem Solving section](solve.md)
 
-- Explain the mental models and patterns of mathematical ideas:
-  - structural build-up from axioms by following rules;
-  - the (cumulative) past determines the present;
-  - how abstraction works, infinite families of mathematical objects;
-  - what properties / predicates are and how to detect them;
-  - ??? (more)
-- The art of problem solving:
-  - Wishful thinking and making wish lists;
-  - Outside-the-box, or lateral thinking: "putting out fires with sound";
-  - Goal-oriented solving: start at the end, work backward;
-  - Domain analysis, problem breakdown, solution design (blueprinting);
-  - Look at it from real up close, look at it from ten miles away;
-  - search for a solution = proof search in a proof tree;
-  - ??? (more)
-## "Convert, solve, convert back" paradigm
-
-- Algebraic topology / number theory / analytic geometry:
-  - take a problem in topology / numbers / geometry,
-  - convert to algebra,
-  - solve the algebraic problem,
-  - convert back to topology / numbers / geometry.
-- Laplace transform in differential equations is a perfect example.
-- Many, many more examples in all areas of math and CS.
+- Basically, *Applied Abstract Thinking*.
