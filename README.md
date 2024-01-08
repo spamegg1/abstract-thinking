@@ -111,7 +111,7 @@
 
 ## Relations and connections
 
-[Link to the Relations section](relatio)
+[Link to the Relations section](relation.md)
 
 - Lots of things are based on relations:
   - Graphs (social networks, GraphQL),
