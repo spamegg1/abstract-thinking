@@ -1,8 +1,26 @@
 # Elements of Abstract Thinking
 
+## What this is *not*:
+
+- This is not about abstract thinking in the broadest sense:
+  - in art,
+  - in science,
+  - in politics,
+  - in religion,
+  - in military,
+  - in decision making,
+  - etc.
+- This is about ***abstract thinking within the context of mathematics and computer science.***
+  - There are similarities to the scientific method:
+    - observations, hypotheses, evidence, testing 
+  - but they are not the focus.
+
 ## ***First, the human side of things:***
 
 ## Pattern recognition
+
+[Link to the Patterns section](./patterns.md)
+
 - Humans are pattern recognition machines.
   - So much so, that [we see patterns where there aren't any](https://en.wikipedia.org/wiki/Pareidolia).
 - Patterns can be found in anything: syntax, semantics, structures, problems, solutions, domains...
@@ -10,17 +28,29 @@
 - Humans also see spatial patterns, which give to geometric / topological structures.
 - Humans are story-oriented, they love "...and then..." style temporal patterns.
 
-## Connections with the physical (concrete) world
-- addition <-> putting things together
+## Connections to the physical world
+
+[Link to the Physical world section](physical.md)
+
+- addition, subtraction <-> putting things together, removing things
 - transformation <-> bending / stretching / shifting objects
 - modus ponens <-> cause and effect
 - traits / polymorphism <-> genetics
+- recursion <-> plants, shells, other life forms
+- software architecture <-> physical architecture
+- neural networks <-> human brain
 
 ## Syntax: symbolic thinking and symbol manipulation
+
+[Link to Symbolic thinking section](symbolic.md)
+
 - Again, ubiquitous for humans (language, writing, numbers etc.)
 - Symbols = syntax = formal = mechanical = unintuitive.
 
-## Semantics: domains (or worlds) and predicates (or properties)
+## Semantics: domains and predicates
+
+[Link to Semantic thinking section](semantic.md)
+
 - We have patterns / models in our brains through the physical world and our senses.
 - Worlds = semantics = informal = meaningful = intuitive = interpretation.
 - Humans can never agree on worlds and interpretations, keep fighting over which is "right".
@@ -28,6 +58,7 @@
 ## ***Now the more technical side of things:***
 
 ## Syntax vs semantics
+
 - Constant tension between symbols and meaning.
 - Different possible worlds and interpretations.
 - Going back and forth between formal and informal, axioms and models.
@@ -37,12 +68,16 @@
   - Curry-Howard correspondence: Proofs <-> Programs.
 
 ## Modalities and paradigms
+
 - Switching between "thinking styles":
   - some problems are better conceived / modeled in certain ways than others.
 - Switching between "expression styles":
   - some solutions are better expressed in certain ways than others.
 
 ### Modalities
+
+[Link to Modalities section](modality.md)
+
 - Changing the "active agent", the "nature of truth" (epistemology) and the input-output relations:
   - "something is true" vs. "I know something is true",
   - "necessary truth" vs. "possible truth" vs. "contingent truth",
@@ -50,6 +85,9 @@
   - deterministic vs random / probabilistic.
 
 ### Paradigms
+
+[Link to Paradigms section](paradigm.md)
+
 - Changing the focal point through which the world is viewed and expressed:
   - Calculus / analysis / continuous math:
     - "Everything is whole, together, inseparable, uncountable, unreal, and infinitesimally smooth."
@@ -59,16 +97,22 @@
     - Everything is local, noun-based and locally-state-based.
   - FP: "Universal verbs from the heavens (functions) act on us all."
     - Everything is global, verb-based but no state (timeless).
-  - Logic P: "Everything is a proof search tree. Nothing else exists."
+  - Logic P: "Everything is a proof search tree. Nothing else exists." 
   - Imperative P: "World is a chaotic mess of forever changing states. Keep up with it!"
     - Everything is global, temporal, side-effect-based and globally-state-based.
 
 ## Domain modeling
-- Parts of structural, reductionistic, axiomatic, and rule-based thinking (see below).
+
+[Link to Modeling section](model.md)
+
+- Parts of structural, reductionist, axiomatic, and rule-based thinking (see below).
 - A family of models correspond directly to axioms that they satisfy.
 - Possible worlds and interpretations.
 
 ## Relations and connections
+
+[Link to the Relations section](relatio)
+
 - Lots of things are based on relations:
   - Graphs (social networks, GraphQL),
   - Databases (relational set theory),
@@ -76,6 +120,9 @@
 - Connections are informal, conceptual relations.
 
 ## Structural thinking
+
+[Link to the Structures section](structure.md)
+
 - Realizing the semantics. Capturing semantics in a concrete way.
 - Algebraic, topological, relational, and order structures.
 - Combined, rich, complex structures: analytical, geometric, ergodic / stochastic.
@@ -84,11 +131,19 @@
 ### Operations, iterations and closures
 
 ## Temporal thinking
+
+[Link to the Time section](time.md)
+
 - chronological, state-based and event-based (discrete vs. continuous)
+- Mutation
 - striking connections with timeless, stateless thinking!
+
 ### States, transitions, state machines (automata)
 
 ## Axiomatic thinking
+
+[Link to the Axiomatic thinking section](axiom.md)
+
 - Realizing the syntax. Capturing syntax in a precise way.
 - Axioms are the same as the idea of "primitives" in programming:
   - basic building blocks that cannot be broken down any further,
@@ -97,17 +152,22 @@
   - Geometric primitives for graphics, etc.
 
 ## Critical Thinking
-- It boils down to: NEGATION!
+
+[Link to Critical thinking section](critical.md)
+
+- It boils down to: ***NEGATION!***
 - Fruitful interaction with axiomatic thinking: negate the axioms!
   - Power of negation: [Hyperbolic geometry](https://www.youtube.com/watch?v=lFlu60qs7_4)
 
 ## Generalization and Specialization
-- Universal (for all) and existential (exists) quantification.
-- Abstraction and reification.
 
-### Higher-order thinking
+- Universal (for all) and existential (there exists) quantification.
+- Abstraction and reification (concretization).
+
+### Higher-order and categorical thinking
 
 ## Rule-based thinking
+
 - Completely controlled world that:
   - obeys rules,
   - is built gradually from earlier stages,
@@ -123,6 +183,9 @@
 - This works with wishful thinking.
 
 ## Recursive thinking
+
+[Link to Recursive thinking section](recursive.md)
+
 - Self-reference and self-similarity (fractals)
 - This is found in nature, biology recurs (insert fractal broccoli picture here)
 - Notoriously difficult for humans!
@@ -142,9 +205,12 @@
 ## ***Back to the human side:***
 
 ## Metacognition
+
 - Being aware of one's own thought processes.
 - Very closely related to meta-knowledge (see below).
+
 ### Self-reflection and self-criticism
+
 ### The rubber-ducky (or platypus) method
 - Projection onto others (get out of your own head!),
 - Empathy, and the "teacher's mind".
@@ -188,6 +254,7 @@
 - It happens all the time without us noticing.
 
 ## Metaknowledge
+
 - I know something.
   - I know that I know it.
   - I *learned it*, I *should* know it but I'm not confident.
@@ -210,7 +277,7 @@
 - https://betterexplained.com/articles/developing-your-intuition-for-math/
 
 # How to think abstractly
-![abstraction-hierarchy](abstraction.png)
+![abstraction-hierarchy](images/abstraction.png)
 
 - Here, we can add logic as an external meta-abstraction that applies to ALL of these.
   - With arrows pointing from Logic to each one.
@@ -231,6 +298,9 @@
   - Do they still work?
 
 # Problem solving
+
+[Link to Problem Solving section](solve.md)
+
 - Explain the mental models and patterns of mathematical ideas:
   - structural build-up from axioms by following rules;
   - the (cumulative) past determines the present;
@@ -239,12 +309,14 @@
   - ??? (more)
 - The art of problem solving:
   - Wishful thinking and making wish lists;
+  - Outside-the-box, or lateral thinking: "putting out fires with sound";
   - Goal-oriented solving: start at the end, work backward;
   - Domain analysis, problem breakdown, solution design (blueprinting);
   - Look at it from real up close, look at it from ten miles away;
   - search for a solution = proof search in a proof tree;
   - ??? (more)
 ## "Convert, solve, convert back" paradigm
+
 - Algebraic topology / number theory / analytic geometry:
   - take a problem in topology / numbers / geometry,
   - convert to algebra,

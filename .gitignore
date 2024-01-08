@@ -263,3 +263,6 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
+# Obsidian
+.obsidian
