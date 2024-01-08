@@ -34,6 +34,8 @@
 - "World is a chaotic mess of forever changing states. Keep up with it!"
 - Everything is global, temporal, side-effect-based and globally-state-based.
 
+## Local vs Global thinking
+
 ## Work in progress!
 
 [Back to Elements](README.md#paradigms)

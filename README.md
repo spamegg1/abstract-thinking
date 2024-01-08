@@ -72,6 +72,9 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - This is not comprehensive, or hierarchical / strictly organized:
   - thinking patterns are tied to each other in a messy tangled web, it's near impossible to make them hierarchical. 
   - Hence, "elements."
+- This is not a coverage of the Math / CS topics that are mentioned.
+  - The idea is that this could be *embedded* into a math / CS curriculum *while* those topics are being taught; giving much clearer understanding.
+
 
 
 ## ***First, the human side of things:***
@@ -193,6 +196,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - but everything else can be built up from them.
   - Synchronization primitives for concurrency,
   - Geometric primitives for graphics, etc.
+- Similarities to reductionist / atomic thinking (see below).
 
 ## Critical Thinking
 
@@ -200,7 +204,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 - It boils down to: ***NEGATION!***
 - Fruitful interaction with axiomatic thinking: negate the axioms!
-  - Power of negation: [Hyperbolic geometry](https://www.youtube.com/watch?v=lFlu60qs7_4)
+  - Power of negation: [Non-Euclidean geometry](https://www.youtube.com/watch?v=lFlu60qs7_4)
 
 ## Abstraction
 
@@ -237,13 +241,14 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - and keep track of the connections.
 - The whole *equals* the sum of the parts.
 - This works with wishful thinking.
+- Similarities to axiomatic thinking.
 
 ## Recursive thinking
 
 [Link to Recursive thinking section](recursive.md)
 
 - Self-reference and self-similarity (fractals)
-- This is found in nature, biology recurs (insert fractal broccoli picture here)
+- This is found in nature, biology recurs (see fractal broccoli picture :broccoli: )
 - Notoriously difficult for humans!
   - It's "anti-temporal" or "reverse-chronological" thinking,
   - but humans are story-oriented creatures.
@@ -251,7 +256,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 ## Meta-thinking
 
-[Link to Meta thinking section](meta.)
+[Link to Meta thinking section](meta.md)
 
 - All these ways of thinking can *compound* and *recurse* on each other:
   - we can have a pattern that generalizes to a bigger domain,
@@ -267,9 +272,13 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to Metacognition section](metacog.md)
 
-## Implicit and explicit knowledge
+- Being aware of one's own thought processes, taking control of it.
+
+## Implicit and Explicit knowledge, Contextual thinking
 
 [Link to Implicit and Explicit knowledge section](implicit.md)
+
+- Assumptions and background knowledge are unavoidable, necessary and always present everywhere.
 
 ## Meta-knowledge
 
@@ -284,7 +293,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to Intuition section](intuit.md)
 
-- Our brains taking subconscious shortcuts and making invisible connections.
+- Our brains take subconscious shortcuts and make invisible connections.
 
 # Problem solving
 

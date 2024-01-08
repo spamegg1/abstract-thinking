@@ -2,4 +2,4 @@
 
 ## Work in progress!
 
-[Back to Elements](README.md#reductionist-and-atomic-thinking)
+[Back to Elements](README.md#reductionist-atomic-thinking)

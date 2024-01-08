@@ -2,4 +2,4 @@
 
 ## Work in progress!
 
-[Back to Elements](README.md#critical-thinkinh)
+[Back to Elements](README.md#critical-thinking)
