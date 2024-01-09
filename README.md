@@ -64,7 +64,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 ## What this is *not*:
 
 - This is not about abstract thinking in the broadest sense:
-  - in art,
+  - in art, music, literature,
   - in science,
   - in politics,
   - in religion,
@@ -242,7 +242,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - until the smallest parts are self-evident,
   - and keep track of the connections.
 - The whole *equals* the sum of the parts.
-- This works with wishful thinking.
+- This works with wishful thinking (see Problem Solving below).
 - Similarities to axiomatic thinking.
 
 ## Recursive thinking
@@ -266,7 +266,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - which has a connection with another predicate from a bigger pattern,
   - and this connection has a form that applies more generally to other connections between other domains,
   - and so on and so on infinitely!
-- Good example: going from Gauss-Bonnet theorem to Riemann-Roch theorem to Atiyah-Singer index theorem.
+- Good example: going from [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem) to [Chern-Gauss-Bonnet](https://en.wikipedia.org/wiki/Chern%E2%80%93Gauss%E2%80%93Bonnet_theorem) to [Riemann-Roch theorem](https://en.wikipedia.org/wiki/Riemann%E2%80%93Roch_theorem) to [Atiyah-Singer index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem).
 
 ## ***Back to the human side:***
 
