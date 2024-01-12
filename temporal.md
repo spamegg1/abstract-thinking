@@ -1,6 +1,8 @@
-# Time and temporal / imperative thinking
+# Temporal and imperative thinking
 
 ## States, transitions, state machines (automata)
+
+## Invariants
 
 ## Work in progress!
 

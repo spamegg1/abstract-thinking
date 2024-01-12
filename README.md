@@ -177,12 +177,13 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 [Link to the Structures section](structure.md)
 
 - Realizing the semantics. Capturing semantics in a concrete way.
+- Connections to modeling and axiomatic thinking.
 - Algebraic, topological, relational, and order structures.
 - Combined, rich, complex structures: analytical, geometric, ergodic / stochastic.
 
 ## Temporal thinking
 
-[Link to the Time section](time.md)
+[Link to the Temporal thinking section](temporal.md)
 
 - chronological, state-based and event-based (discrete vs. continuous)
 - Mutation
@@ -266,7 +267,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - which has a connection with another predicate from a bigger pattern,
   - and this connection has a form that applies more generally to other connections between other domains,
   - and so on and so on infinitely!
-- Good example: going from [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem) to [Chern-Gauss-Bonnet](https://en.wikipedia.org/wiki/Chern%E2%80%93Gauss%E2%80%93Bonnet_theorem) to [Riemann-Roch theorem](https://en.wikipedia.org/wiki/Riemann%E2%80%93Roch_theorem) to [Atiyah-Singer index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem).
+- Good example: going from [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem) to [Chern-Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Chern%E2%80%93Gauss%E2%80%93Bonnet_theorem) to [Riemann-Roch theorem](https://en.wikipedia.org/wiki/Riemann%E2%80%93Roch_theorem) to [Atiyah-Singer index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem).
 
 ## ***Back to the human side:***
 
@@ -290,14 +291,13 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - "I don't know what I don't know", or 
   - "I can't figure out why I can't figure things out."
 
-
-# Intuition and intuitive thinking
+## Intuition and intuitive thinking
 
 [Link to Intuition section](intuit.md)
 
 - Our brains take subconscious shortcuts and make invisible connections.
 
-# Problem solving
+## Problem solving
 
 [Link to Problem Solving section](solve.md)
 
