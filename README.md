@@ -14,7 +14,9 @@ I've been trying to figure out the underlying reasons why many are struggling wi
 
 ### The Usual Suspects
 
-> ***It soon became clear that the unconscious instincts for logic and language which had enabled me to succeed were not shared by  the large majority of my students.*** - Susanna Epp (author of [Discrete Mathematics with Applications, 5th edition](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-ebook/dp/B07M87BWRC))
+> ***It soon became clear that the unconscious instincts for logic and language which had enabled me to succeed were not shared by the large majority of my students.*** 
+>
+> - Susanna Epp (author of [Discrete Mathematics with Applications, 5th edition](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-ebook/dp/B07M87BWRC))
 
 ![abstract-thinking-1](images/abstractThinking.png)
 
@@ -77,8 +79,6 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - This is not a coverage of the Math / CS topics that are mentioned.
   - The idea is that this could be *embedded* into a math / CS curriculum *while* those topics are being taught; giving much clearer understanding.
 
-
-
 ## ***First, the human side of things:***
 
 ## Pattern recognition
@@ -96,24 +96,26 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to the Physical world section](physical.md)
 
-- addition, subtraction <-> putting things together, removing things
-- transformation <-> bending / stretching / shifting objects
-- modus ponens <-> cause and effect
-- traits / polymorphism <-> genetics
-- recursion <-> plants, shells, other life forms
-- software architecture <-> physical architecture
-- neural networks <-> human brain
+|      Abstract version |  ↔   | Physical version                         |
+| --------------------: | :--: | ---------------------------------------- |
+| addition, subtraction |  ↔   | putting things together, removing things |
+|        transformation |  ↔   | bending / stretching / shifting objects  |
+|          modus ponens |  ↔   | cause and effect                         |
+| traits / polymorphism |  ↔   | genetics                                 |
+|             recursion |  ↔   | plants, shells, other life forms         |
+| software architecture |  ↔   | physical architecture                    |
+|       neural networks |  ↔   | human brain                              |
 
 ## Syntax: symbolic thinking and symbol manipulation
 
-[Link to Symbolic thinking section](symbolic.md)
+[Link to the Symbolic thinking section](symbolic.md)
 
 - Again, ubiquitous for humans (language, writing, numbers etc.)
 - Symbols = syntax = formal = mechanical = unintuitive.
 
 ## Semantics: domains and predicates
 
-[Link to Semantic thinking section](semantic.md)
+[Link to the Semantic thinking section](semantic.md)
 
 - We have patterns / models in our brains through the physical world and our senses.
 - Worlds = semantics = informal = meaningful = intuitive = interpretation.
@@ -127,36 +129,31 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Different possible worlds and interpretations.
 - Going back and forth between formal and informal, axioms and models.
 - Deep connection and equivalence between syntax and semantics:
-  - Soundness and completeness: Provability <-> Truth,
-  - Abstract proof <-> Concrete model,
-  - Curry-Howard correspondence: Proofs <-> Programs.
 
-## Modalities and paradigms
+| Correspondence             | Syntax         | ↔    | Semantics      |
+| -------------------------- | -------------- | ---- | -------------- |
+| Soundness and Completeness | Provability    | ↔    | Truth          |
+| Soundness and Completeness | Abstract proof | ↔    | Concrete model |
+| Curry-Howard Isomorphism   | Proofs         | ↔    | Programs       |
 
-- Switching between "thinking styles":
+## Modalities
+
+[Link to the Modalities section](modality.md)
+
+- Switching between "thinking styles" (or *modes*):
   - some problems are better conceived / modeled in certain ways than others.
+
+## Paradigms
+
+[Link to the Paradigms section](paradigm.md)
+
+- Changing the focal point through which the world is viewed and expressed.
 - Switching between "expression styles":
   - some solutions are better expressed in certain ways than others.
 
-### Modalities
-
-[Link to Modalities section](modality.md)
-
-- Changing the "active agent", the "nature of truth / knowledge" (epistemology) and the input-output relations:
-  - "something is true" vs. "I know something is true",
-  - "necessary truth" vs. "possible truth" vs. "contingent truth",
-  - calculating vs. proving vs. exploring vs. guessing / heuristics,
-  - deterministic vs random / probabilistic.
-
-### Paradigms
-
-[Link to Paradigms section](paradigm.md)
-
-- Changing the focal point through which the world is viewed and expressed.
-
 ## Domain modeling
 
-[Link to Modeling section](model.md)
+[Link to the Modeling section](model.md)
 
 - Parts of structural, reductionist, axiomatic, and rule-based thinking (see below).
 - A family of models correspond directly to axioms that they satisfy.
@@ -189,16 +186,16 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Mutation
 - connections with timeless, stateless thinking, and rule-based thinking.
 
+## Spatial thinking (is this really "abstract"?)
+
+- ???
+
 ## Axiomatic thinking
 
 [Link to the Axiomatic thinking section](axiom.md)
 
 - Realizing the syntax. Capturing syntax in a precise way.
-- Axioms are the same as the idea of "primitives" in programming:
-  - basic building blocks that cannot be broken down any further,
-  - but everything else can be built up from them.
-  - Synchronization primitives for concurrency,
-  - Geometric primitives for graphics, etc.
+- Minimal assumptions that are taken for granted as a starting point, because they are self-evident.
 - Similarities to reductionist / atomic thinking (see below).
 
 ## Critical Thinking

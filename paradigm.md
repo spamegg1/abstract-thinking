@@ -2,12 +2,12 @@
 
 ## Math paradigms
 
-### Calculus / analysis / continuous math:
+### Calculus / analysis / continuous math
 
 - "Everything is whole, together, inseparable, uncountable, unreal, and infinitesimally smooth."
 - "Best we can hope for is a local approximation that gets precise at infinity."
 
-### Discrete math:
+### Discrete math
 
 - "Everything is separate, individual, countable, jagged, real and precise."
 
@@ -25,11 +25,11 @@
 
 - Everything is global, verb-based but no state (timeless).
 
-### Logic Prog
+### Logic Programming
 
 - "Everything is a proof search tree. Nothing else exists." 
 
-### Imperative Prog
+### Imperative Programming
 
 - "World is a chaotic mess of forever changing states. Keep up with it!"
 - Everything is global, temporal, side-effect-based and globally-state-based.
