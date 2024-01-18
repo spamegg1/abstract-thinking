@@ -2,7 +2,7 @@
 
 ## How to generalize: thinking abstractly
 
-![abstraction-hierarchy](/media/spam/CrucialMX100/REPOS/abstract-thinking/images/abstraction.png)
+![abstraction-hierarchy](images/abstraction.png)
 
 - Here, we can add logic as an external meta-abstraction that applies to ALL of these.
   - With arrows pointing from Logic to each one.
