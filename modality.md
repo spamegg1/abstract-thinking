@@ -9,7 +9,8 @@ Changing:
 - the ***type and goal of the activity***:
   - *calculating* vs. *proving* vs. *exploring* vs. *guessing / heuristics*,
 - and the ***accuracy***:
-  - deterministic vs random / probabilistic / stochastic.
+  - *deterministic* vs *probabilistic / stochastic*,
+  - *exact* vs *approximate*.
 
 ## Work in progress!
 

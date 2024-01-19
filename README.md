@@ -41,23 +41,51 @@ The journey went like this:
 7. I suggested a much gentler, easier resource (Susanna Epp's book).
 8. Students still struggled with that.
 
-### Opening a can of worms
+### The ever-elusive *maturity*
+
+Students are told to "go get some [*maturity*](https://en.wikipedia.org/wiki/Mathematical_maturity) and [intuition](https://en.wikipedia.org/wiki/Logical_intuition)" but
+
+1. it's not clear *what they are*,
+2. nobody explains exactly *how to get them*.
+
+#### The usual advice
+
+The general advice is to "keep doing it and eventually you'll start getting it", also known as *learning by osmosis*. Unfortunately I've seen examples where some students didn't get it even after 1-2 years of practice. The [research says](https://maa.org/node/789691) that *"...experience alone is a poor teacher. Many learners don't know the quality of their comprehension..."*
+
+Another common advice is to take Calculus first, to gain enough maturity for Discrete math and proofs. I've seen students who successfully completed 3 Calculus courses and then fail at even the most basic problems in Discrete Mathematics after months of study. (Once again, these students are not stupid, or lazy.)
+
+The rare advice is to seek help from books such as [How to solve it](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science-dp-069111966X/dp/069111966X/), [Book of proof](https://www.people.vcu.edu/~rhammack/BookOfProof/), [The Little Prover](https://mitpress.mit.edu/9780262527958/the-little-prover/) or [The heart of mathematics](https://www.amazon.com/Heart-Mathematics-Invitation-Effective-Thinking/dp/1118156595). This is good advice, and sometimes works, but some of these resources either assume a decent mathematical background and maturity already, or are too verbose / poorly translated, or too difficult for starters.
+
+#### Insights
+
+The belief (and hope) is that math / CS "teaches you how to think." True, maybe? :thinking: But they require you to know how to think *a little*. What if you don't know how to think *at all ?* So we got a *recursive knowledge scaffolding* problem. 
+
+The issue is that math / CS subjects do not (usually) make abstract thinking *explicit*. Instead this thinking is *implicit* and "baked into" the subjects in subtle ways. They cover the "surface content" of the topics in an explicit fashion.
+
+But unlike what the general advice says, the deeper, implicit thinking patterns go unnoticed by many students even after hundreds of hours of practice, instead of "automatically and subconsciously being picked up by your brain".
+
+There does not seem to be any clear reason or pattern. Should we believe the "unconscious instinct" explanation and admit defeat?
+
+### :bug: Opening :bug: a :bug: can :bug: of :bug: worms :bug:
 
 The culprit seems to be the lack of abstract thinking skills, ***whatever the hell that is!***
 
 Also the lack of problem solving skills, which are deeply connected to abstract thinking (breaking down a problem, modeling it, understanding the problem space, conceptualizing a solution...)
 
-There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I believe it *can be taught.*
+One more major issue, in my opinion, is the lack of metacognitive skills. Students are not aware of their thought processes. Metacognition itself can be abstract.
+
+There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I believe *it can be taught,* even if it's just by making it a bit more explicit and not much else!
 
 ***And here we are...***
 
 ## What this is:
 
 - A loose collection of the common abstract patterns and ways of thinking found everywhere, which
-  - are *implicit* and *invisible*,
-  - *underlie* all the subjects we study.
+  - are *implicit*, *intrinsic* and *invisible*,
+  - *underlie* all the subjects we study;
+  - plus metacognitive skills.
 - It's ***an extremely rough draft for now***, hopefully it will be fleshed out later, with lots of examples. 
-  - So, there are probably many references to things you don't know right now.
+  - So, there are probably many references to things you don't know.
 - This is about ***abstract thinking within the context of mathematics and computer science.***
   - There are similarities to the scientific method:
     - observations, hypotheses, evidence, testing 
@@ -65,13 +93,13 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 ## What this is *not*:
 
-- This is not about abstract thinking in the broadest sense:
+- This is not about abstract thinking in the [broadest sense](https://en.wikipedia.org/wiki/Abstraction#As_used_in_different_disciplines):
   - in art, music, literature,
   - in science,
   - in politics,
   - in religion,
   - in military,
-  - in decision making,
+  - in business, decision making,
   - etc.
 - This is not comprehensive, or hierarchical / strictly organized:
   - thinking patterns are tied to each other in a messy tangled web, it's near impossible to make them hierarchical. 
@@ -86,25 +114,12 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 [Link to the Patterns section](./patterns.md)
 
 - Humans are pattern recognition machines.
-  - So much so, that [we see patterns where there aren't any](https://en.wikipedia.org/wiki/Pareidolia).
+  - So much so, that [we see patterns even where there are none](https://en.wikipedia.org/wiki/Pareidolia).
 - Patterns can be found in anything: syntax, semantics, structures, problems, solutions, domains...
-- Humans are also comparison machines, which give rise to order structures.
-- Humans also see spatial patterns, which give to geometric / topological structures.
-- Humans are story-oriented, they love "...and then..." style temporal patterns.
 
 ## Connections to the physical world
 
 [Link to the Physical world section](physical.md)
-
-|      Abstract version |  ↔   | Physical version                         |
-| --------------------: | :--: | ---------------------------------------- |
-| addition, subtraction |  ↔   | putting things together, removing things |
-|        transformation |  ↔   | bending / stretching / shifting objects  |
-|          modus ponens |  ↔   | cause and effect                         |
-| traits / polymorphism |  ↔   | genetics                                 |
-|             recursion |  ↔   | plants, shells, other life forms         |
-| software architecture |  ↔   | physical architecture                    |
-|       neural networks |  ↔   | human brain                              |
 
 ## Syntax: symbolic thinking and symbol manipulation
 
@@ -117,7 +132,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to the Semantic thinking section](semantic.md)
 
-- We have patterns / models in our brains through the physical world and our senses.
+- We have patterns / models in our brains through the physical world and our senses, with which we assign meaning / interpretation to things.
 - Worlds = semantics = informal = meaningful = intuitive = interpretation.
 - Humans can never agree on worlds and interpretations, keep fighting over which is "right".
 
@@ -130,11 +145,11 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Going back and forth between formal and informal, axioms and models.
 - Deep connection and equivalence between syntax and semantics:
 
-| Correspondence             | Syntax         | ↔    | Semantics      |
-| -------------------------- | -------------- | ---- | -------------- |
-| Soundness and Completeness | Provability    | ↔    | Truth          |
-| Soundness and Completeness | Abstract proof | ↔    | Concrete model |
-| Curry-Howard Isomorphism   | Proofs         | ↔    | Programs       |
+| Correspondence             |         Syntax |  ↔   | Semantics      |
+| :------------------------- | -------------: | :--: | -------------- |
+| Soundness and Completeness |    Provability |  ↔   | Truth          |
+| Soundness and Completeness | Abstract proof |  ↔   | Concrete model |
+| Curry-Howard Isomorphism   |         Proofs |  ↔   | Programs       |
 
 ## Modalities
 
@@ -183,7 +198,8 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 [Link to the Temporal thinking section](temporal.md)
 
 - chronological, state-based and event-based (discrete vs. continuous)
-- Mutation
+- static vs. dynamic
+- mutating state
 - connections with timeless, stateless thinking, and rule-based thinking.
 
 ## Spatial thinking (is this really "abstract"?)
@@ -205,10 +221,25 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - It boils down to: ***NEGATION!***
 - Fruitful interaction with axiomatic thinking: negate the axioms!
   - Power of negation: [Non-Euclidean geometry](https://www.youtube.com/watch?v=lFlu60qs7_4)
+- Also connection to reductionist thinking.
+
+## Abstract Reasoning
+
+[Link to the Reasoning section](reason.md)
+
+- Making or removing assumptions.
+  - Very difficult for humans!
+- Modus ponens: the heart of reasoning. 
+  - Connection to rule-based and axiomatic thinking.
+- Deductive,
+
+- Inductive,
+- Abductive,
+- Fuzzy reasoning.
 
 ## Abstraction
 
-[Link to Abstraction section](abstract.md)
+[Link to the Abstraction section](abstract.md)
 
 ### Generalization and Specialization
 
@@ -292,7 +323,12 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to Intuition section](intuit.md)
 
-- Our brains take subconscious shortcuts and make invisible connections.
+- Our brains 
+  - take subconscious shortcuts, 
+  - pick up on implicit things, and
+  - make invisible connections.
+
+- Connection to wishful thinking (see problem solving).
 
 ## Problem solving
 
