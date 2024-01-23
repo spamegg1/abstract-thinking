@@ -66,6 +66,16 @@ But unlike what the general advice says, the deeper, implicit thinking patterns 
 
 There does not seem to be any clear reason or pattern. Should we believe the "unconscious instinct" explanation and admit defeat?
 
+### Not taught in school
+
+According to [a Stanford prof](https://www.youtube.com/watch?v=LtRWu9DErgU), the most important thing is problem decomposition, and ***nobody teaches it:***
+
+![problem-decomposition](images/notTaught.png)
+
+Some students tend to agree:
+
+![cognitive-skills](images/notTaughtInSchool.png)
+
 ### :bug: Opening :bug: a :bug: can :bug: of :bug: worms :bug:
 
 The culprit seems to be the lack of abstract thinking skills, ***whatever the hell that is!***
@@ -335,3 +345,4 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 [Link to Problem Solving section](solve.md)
 
 - Basically, *Applied Abstract Thinking*.
+- [The essentials of problem solving](https://www.youtube.com/watch?v=6DxTQiJuAoc)
