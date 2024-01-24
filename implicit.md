@@ -19,6 +19,8 @@
 
 ## Implicit conversions
 
+![implicit-conversion](images/implicitConversion.png)
+
 - Converting one idea / concept / assumption to another, without being aware of it.
 - Found in math, programming, and a natural function of our brains.
   - which makes it an interesting example of meta-thinking!
