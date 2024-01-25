@@ -131,6 +131,39 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to the Physical world section](physical.md)
 
+## Metacognition
+
+[Link to Metacognition section](metacog.md)
+
+- Being aware of one's own thought processes, taking control of it.
+
+## Implicit and Explicit knowledge, Contextual thinking
+
+[Link to Implicit and Explicit knowledge section](implicit.md)
+
+- Assumptions and background knowledge are unavoidable, necessary and always present everywhere.
+
+## Meta-knowledge
+
+[Link to Meta-knowledge section](metaknow.md)
+
+- Knowledge can have a recursive nature. So you can get stuck:
+  - "I don't know what I don't know", or 
+  - "I can't figure out why I can't figure things out."
+
+## Intuition and intuitive thinking
+
+[Link to Intuition section](intuit.md)
+
+- Our brains 
+  - take subconscious shortcuts, 
+  - pick up on implicit things, and
+  - make invisible connections.
+
+- Connection to wishful thinking (see problem solving).
+
+## ***Now the more technical side of things:***
+
 ## Syntax: symbolic thinking and symbol manipulation
 
 [Link to the Symbolic thinking section](symbolic.md)
@@ -146,9 +179,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Worlds = semantics = informal = meaningful = intuitive = interpretation.
 - Humans can never agree on worlds and interpretations, keep fighting over which is "right".
 
-## ***Now the more technical side of things:***
-
-## Syntax vs semantics
+### Syntax vs semantics
 
 - Constant tension between symbols and meaning.
 - Different possible worlds and interpretations.
@@ -207,7 +238,8 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to the Temporal thinking section](temporal.md)
 
-- chronological, state-based and event-based (discrete vs. continuous)
+- chronological, state-based and event-based 
+- discrete vs. continuous
 - static vs. dynamic
 - mutating state
 - connections with timeless, stateless thinking, and rule-based thinking.
@@ -250,6 +282,12 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 ## Abstraction
 
 [Link to the Abstraction section](abstract.md)
+
+### Composition and decomposition
+
+[Link to the Decomposition section](decompose.md)
+
+- Strong connection to Problem solving (see below).
 
 ### Generalization and Specialization
 
@@ -295,50 +333,21 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - but humans are story-oriented creatures.
 - Connection with structural thinking: self-similar structures (fractals).
 
+## Systems thinking
+
+[Link to the Systems section](system.md)
+
 ## Meta-thinking
 
 [Link to Meta thinking section](meta.md)
 
-- All these ways of thinking can *compound* and *recurse* on each other:
+- All these ways of thinking can *recur* and *compound* on each other:
   - we can have a pattern that generalizes to a bigger domain,
   - which satisfies some predicates that define a modality,
   - which has a connection with another predicate from a bigger pattern,
   - and this connection has a form that applies more generally to other connections between other domains,
   - and so on and so on infinitely!
 - Good example: going from [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem) to [Chern-Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Chern%E2%80%93Gauss%E2%80%93Bonnet_theorem) to [Riemann-Roch theorem](https://en.wikipedia.org/wiki/Riemann%E2%80%93Roch_theorem) to [Atiyah-Singer index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem).
-
-## ***Back to the human side:***
-
-## Metacognition
-
-[Link to Metacognition section](metacog.md)
-
-- Being aware of one's own thought processes, taking control of it.
-
-## Implicit and Explicit knowledge, Contextual thinking
-
-[Link to Implicit and Explicit knowledge section](implicit.md)
-
-- Assumptions and background knowledge are unavoidable, necessary and always present everywhere.
-
-## Meta-knowledge
-
-[Link to Meta-knowledge section](metaknow.md)
-
-- Knowledge can have a recursive nature. So you can get stuck:
-  - "I don't know what I don't know", or 
-  - "I can't figure out why I can't figure things out."
-
-## Intuition and intuitive thinking
-
-[Link to Intuition section](intuit.md)
-
-- Our brains 
-  - take subconscious shortcuts, 
-  - pick up on implicit things, and
-  - make invisible connections.
-
-- Connection to wishful thinking (see problem solving).
 
 ## Problem solving
 
