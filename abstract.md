@@ -1,4 +1,11 @@
-# Generalization and Specialization
+# Abstraction
+
+## Generalization and Specialization
+
+- Universal and existential quantification.
+- Parametrization.
+- Contextual generalization (connection to implicits.)
+- Abstraction and reification.
 
 ## How to generalize: thinking abstractly
 

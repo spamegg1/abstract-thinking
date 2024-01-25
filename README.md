@@ -72,6 +72,8 @@ According to [a Stanford prof](https://www.youtube.com/watch?v=LtRWu9DErgU), the
 
 ![problem-decomposition](images/notTaught.png)
 
+(He is also dealing with the questions "is it innate?" and "can it be taught?")
+
 Some students tend to agree:
 
 ![cognitive-skills](images/notTaughtInSchool.png)
@@ -117,9 +119,15 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - This is not a coverage of the Math / CS topics that are mentioned.
   - The idea is that this could be *embedded* into a math / CS curriculum *while* those topics are being taught; giving much clearer understanding.
 
+***So... here we go!***
+
 # ***First, the human side of things:***
 
-## Pattern recognition
+# The Basic Instincts
+
+## Our physical senses and the world
+
+### Pattern recognition
 
 [Link to the Patterns section](./patterns.md)
 
@@ -127,33 +135,15 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - So much so, that [we see patterns even where there are none](https://en.wikipedia.org/wiki/Pareidolia).
 - Patterns can be found in anything: syntax, semantics, structures, problems, solutions, domains...
 
-## Connections to the physical world
+### Connections to the physical world
 
 [Link to the Physical world section](physical.md)
 
-## Metacognition
+## Our subconscious stuff
 
-[Link to Metacognition section](metacog.md)
+### Intuition and intuitive thinking
 
-- Being aware of one's own thought processes, taking control of it.
-
-## Implicit and Explicit knowledge, Contextual thinking
-
-[Link to Implicit and Explicit knowledge section](implicit.md)
-
-- Assumptions and background knowledge are unavoidable, necessary and always present everywhere.
-
-## Meta-knowledge
-
-[Link to Meta-knowledge section](metaknow.md)
-
-- Knowledge can have a recursive nature. So you can get stuck:
-  - "I don't know what I don't know", or 
-  - "I can't figure out why I can't figure things out."
-
-## Intuition and intuitive thinking
-
-[Link to Intuition section](intuit.md)
+[Link to the Intuition section](intuit.md)
 
 - Our brains 
   - take subconscious shortcuts, 
@@ -162,7 +152,31 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 - Connection to wishful thinking (see problem solving).
 
+### Implicit and Explicit knowledge, Contextual thinking
+
+[Link to the Implicit and Explicit knowledge section](implicit.md)
+
+- Assumptions and background knowledge are unavoidable, necessary and always present everywhere.
+
+## The meta stuff in our heads
+
+### Metacognition
+
+[Link to the Metacognition section](metacog.md)
+
+- Being aware of one's own thought processes, taking control of it.
+
+### Meta-knowledge
+
+[Link to the Meta-knowledge section](metaknow.md)
+
+- Knowledge can have a recursive nature. So you can get stuck:
+  - "I don't know what I don't know", or 
+  - "I can't figure out why I can't figure things out."
+
 # ***Now the more technical side of things:***
+
+# The logical stuff
 
 ## Syntax: symbolic thinking and symbol manipulation
 
@@ -179,18 +193,96 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Worlds = semantics = informal = meaningful = intuitive = interpretation.
 - Humans can never agree on worlds and interpretations, keep fighting over which is "right".
 
-### Syntax vs semantics
+## Critical Thinking
 
-- Constant tension between symbols and meaning.
-- Different possible worlds and interpretations.
-- Going back and forth between formal and informal, axioms and models.
-- Deep connection and equivalence between syntax and semantics:
+[Link to the Critical thinking section](critical.md)
 
-| Correspondence             |         Syntax |  ↔   | Semantics      |
-| :------------------------- | -------------: | :--: | -------------- |
-| Soundness and Completeness |    Provability |  ↔   | Truth          |
-| Soundness and Completeness | Abstract proof |  ↔   | Concrete model |
-| Curry-Howard Isomorphism   |         Proofs |  ↔   | Programs       |
+- It boils down to: ***NEGATION!***
+- Fruitful interaction with axiomatic thinking: negate the axioms!
+  - Power of negation: [Non-Euclidean geometry](https://www.youtube.com/watch?v=lFlu60qs7_4)
+- Also connection to reductionist thinking.
+
+## Reasoning
+
+[Link to the Reasoning section](reason.md)
+
+- Making or removing assumptions.
+  - Very difficult for humans! (messes up the implicit models in our heads.)
+- Modus ponens: the heart of reasoning. 
+  - Connections to rule-based and axiomatic thinking.
+- Deductive,
+
+- Inductive,
+- Abductive,
+- Fuzzy reasoning.
+
+## Axiomatic thinking
+
+[Link to the Axiomatic thinking section](axiom.md)
+
+- Realizing the syntax. Capturing syntax in a precise way.
+- Minimal assumptions that are taken for granted as a starting point, because they are self-evident.
+- Similarities to reductionist / atomic thinking (see below).
+
+# Ways of thinking
+
+## Structural thinking
+
+[Link to the Structures section](structure.md)
+
+- Realizing the semantics. Capturing semantics in a concrete way.
+- Connections to modeling and axiomatic thinking.
+- Algebraic, topological, relational, and order structures.
+- Combined, rich, complex structures: analytical, geometric, ergodic / stochastic.
+
+## Temporal thinking
+
+[Link to the Temporal thinking section](temporal.md)
+
+- chronological, state-based and event-based 
+- discrete vs. continuous
+- static vs. dynamic
+- mutating state
+- connections with timeless, stateless thinking, and rule-based thinking.
+
+## Spatial thinking (is this really "abstract"?)
+
+- ???
+
+## Reductionist (atomic) thinking
+
+[Link to the Atomic thinking section](atomic.md)
+
+- Break into smaller parts,
+  - then even smaller,
+  - then even smaller than that,
+  - until the smallest parts are self-evident,
+  - and keep track of the connections.
+- The whole *equals* the sum of the parts.
+- This works with wishful thinking (see Problem Solving below).
+- Similarities to axiomatic thinking.
+
+## Recursive thinking
+
+[Link to the Recursive thinking section](recursive.md)
+
+- Self-reference and self-similarity (fractals)
+- This is found in nature, biology recurs (see fractal broccoli picture :broccoli: )
+- Notoriously difficult for humans!
+  - It's "anti-temporal" or "reverse-chronological" thinking,
+  - but humans are story-oriented creatures.
+- Connection with structural thinking: self-similar structures (fractals).
+
+## Rule-based thinking
+
+[Link to the Rule-based Thinking section](rulebased.md)
+
+- Completely controlled world that:
+  - obeys rules,
+  - is built gradually from earlier stages,
+  - offers strict guarantees (invariants).
+
+# The joys of world building
 
 ## Modalities
 
@@ -219,119 +311,23 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to the Relations section](relation.md)
 
-- Lots of things are based on relations:
-  - Graphs (social networks, GraphQL),
-  - Databases (relational set theory),
-  - OOP (UML diagrams, concept maps), many more.
-- Connections are informal, conceptual relations.
-
-## Structural thinking
-
-[Link to the Structures section](structure.md)
-
-- Realizing the semantics. Capturing semantics in a concrete way.
-- Connections to modeling and axiomatic thinking.
-- Algebraic, topological, relational, and order structures.
-- Combined, rich, complex structures: analytical, geometric, ergodic / stochastic.
-
-## Temporal thinking
-
-[Link to the Temporal thinking section](temporal.md)
-
-- chronological, state-based and event-based 
-- discrete vs. continuous
-- static vs. dynamic
-- mutating state
-- connections with timeless, stateless thinking, and rule-based thinking.
-
-## Spatial thinking (is this really "abstract"?)
-
-- ???
-
-## Axiomatic thinking
-
-[Link to the Axiomatic thinking section](axiom.md)
-
-- Realizing the syntax. Capturing syntax in a precise way.
-- Minimal assumptions that are taken for granted as a starting point, because they are self-evident.
-- Similarities to reductionist / atomic thinking (see below).
-
-## Critical Thinking
-
-[Link to Critical thinking section](critical.md)
-
-- It boils down to: ***NEGATION!***
-- Fruitful interaction with axiomatic thinking: negate the axioms!
-  - Power of negation: [Non-Euclidean geometry](https://www.youtube.com/watch?v=lFlu60qs7_4)
-- Also connection to reductionist thinking.
-
-## Abstract Reasoning
-
-[Link to the Reasoning section](reason.md)
-
-- Making or removing assumptions.
-  - Very difficult for humans!
-- Modus ponens: the heart of reasoning. 
-  - Connection to rule-based and axiomatic thinking.
-- Deductive,
-
-- Inductive,
-- Abductive,
-- Fuzzy reasoning.
+# The abstract stuff
 
 ## Abstraction
 
 [Link to the Abstraction section](abstract.md)
 
-### Composition and decomposition
+## Composition and decomposition
 
 [Link to the Decomposition section](decompose.md)
 
-- Strong connection to Problem solving (see below).
+- Strong connections to Domain Modeling (see above) and Problem Solving (see below).
 
-### Generalization and Specialization
+## Higher-order and categorical thinking
 
-- Universal and existential quantification.
-- Parametrization.
-- Contextual generalization (connection to implicits.)
-- Abstraction and reification.
+[Link to the Categorical thinking section](categoric.md)
 
-### Higher-order and categorical thinking
-
-[Link to Categorical section](categoric.md)
-
-## Rule-based thinking
-
-[Link to Rule-based Thinking section](rulebased.md)
-
-- Completely controlled world that:
-  - obeys rules,
-  - is built gradually from earlier stages,
-  - offers strict guarantees (invariants).
-
-## Reductionist (atomic) thinking
-
-[Link to Atomic thinking section](atomic.md)
-
-- Break into smaller parts,
-  - then even smaller,
-  - then even smaller than that,
-  - until the smallest parts are self-evident,
-  - and keep track of the connections.
-- The whole *equals* the sum of the parts.
-- This works with wishful thinking (see Problem Solving below).
-- Similarities to axiomatic thinking.
-
-## Recursive thinking
-
-[Link to Recursive thinking section](recursive.md)
-
-- Self-reference and self-similarity (fractals)
-- This is found in nature, biology recurs (see fractal broccoli picture :broccoli: )
-- Notoriously difficult for humans!
-  - It's "anti-temporal" or "reverse-chronological" thinking,
-  - but humans are story-oriented creatures.
-- Connection with structural thinking: self-similar structures (fractals).
+# The big, complex, combined stuff
 
 ## Systems thinking
 
@@ -339,19 +335,11 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 ## Meta-thinking
 
-[Link to Meta thinking section](meta.md)
+[Link to the Meta thinking section](meta.md)
 
-- All these ways of thinking can *recur* and *compound* on each other:
-  - we can have a pattern that generalizes to a bigger domain,
-  - which satisfies some predicates that define a modality,
-  - which has a connection with another predicate from a bigger pattern,
-  - and this connection has a form that applies more generally to other connections between other domains,
-  - and so on and so on infinitely!
-- Good example: going from [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem) to [Chern-Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Chern%E2%80%93Gauss%E2%80%93Bonnet_theorem) to [Riemann-Roch theorem](https://en.wikipedia.org/wiki/Riemann%E2%80%93Roch_theorem) to [Atiyah-Singer index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem).
+# Problem solving
 
-## Problem solving
-
-[Link to Problem Solving section](solve.md)
+[Link to the Problem Solving section](solve.md)
 
 - Basically, *Applied Abstract Thinking*.
 - [The essentials of problem solving](https://www.youtube.com/watch?v=6DxTQiJuAoc)
