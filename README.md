@@ -117,7 +117,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - This is not a coverage of the Math / CS topics that are mentioned.
   - The idea is that this could be *embedded* into a math / CS curriculum *while* those topics are being taught; giving much clearer understanding.
 
-## ***First, the human side of things:***
+# ***First, the human side of things:***
 
 ## Pattern recognition
 
@@ -162,7 +162,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 - Connection to wishful thinking (see problem solving).
 
-## ***Now the more technical side of things:***
+# ***Now the more technical side of things:***
 
 ## Syntax: symbolic thinking and symbol manipulation
 
