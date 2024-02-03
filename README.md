@@ -222,7 +222,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 - Realizing the syntax. Capturing syntax in a precise way.
 - Minimal assumptions that are taken for granted as a starting point, because they are self-evident.
-- Similarities to reductionist / atomic thinking (see below).
+- Similarities to reductionist / atomic thinking.
 
 # Ways of thinking
 
@@ -259,7 +259,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - until the smallest parts are self-evident,
   - and keep track of the connections.
 - The whole *equals* the sum of the parts.
-- This works with wishful thinking (see Problem Solving below).
+- This works with wishful thinking (see Problem Solving).
 - Similarities to axiomatic thinking.
 
 ## Recursive thinking
@@ -303,7 +303,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to the Modeling section](model.md)
 
-- Parts of structural, reductionist, axiomatic, and rule-based thinking (see below).
+- Parts of structural, reductionist, axiomatic, and rule-based thinking.
 - A family of models correspond directly to axioms that they satisfy.
 - Possible worlds and interpretations.
 
@@ -321,7 +321,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to the Decomposition section](decompose.md)
 
-- Strong connections to Domain Modeling (see above) and Problem Solving (see below).
+- Strong connections to Domain Modeling and Problem Solving.
 
 ## Higher-order and categorical thinking
 
