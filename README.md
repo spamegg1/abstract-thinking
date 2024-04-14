@@ -72,7 +72,7 @@ According to [a Stanford prof](https://www.youtube.com/watch?v=LtRWu9DErgU), the
 
 ![problem-decomposition](images/notTaught.png)
 
-(He is also dealing with the questions "is it innate?" and "can it be taught?")
+(He is also dealing with the questions "is it innate?" and ["can it be taught?"](https://www.youtube.com/watch?v=lgZ7Cxt5uIU))
 
 Some students tend to agree:
 
