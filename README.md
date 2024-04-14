@@ -78,7 +78,7 @@ Some students tend to agree:
 
 ![cognitive-skills](images/notTaughtInSchool.png)
 
-### :bug: Opening :bug: a :bug: can :bug: of :bug: worms :bug:
+### :bug: Opening :bug: a :bug: can :bug: of :bug: worms
 
 The culprit seems to be the lack of abstract thinking skills, ***whatever the hell that is!***
 
