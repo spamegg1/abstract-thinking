@@ -10,6 +10,6 @@
 | software architecture |  ↔   | physical architecture                    |
 |       neural networks |  ↔   | human brain                              |
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#connections-to-the-physical-world)

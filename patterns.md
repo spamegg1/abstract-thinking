@@ -7,6 +7,6 @@
 - Humans see and form relations everywhere between things / people, which give rise to *relational patterns*.
 - Humans observe / exhibit behaviors and think behaviorally, which gives rise to *behavioral patterns*.
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#pattern-recognition)

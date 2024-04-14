@@ -2,7 +2,6 @@
 
 ![broccoli](images/broccoli.png)
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#recursive-thinking)
-

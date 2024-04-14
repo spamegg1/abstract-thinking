@@ -8,6 +8,6 @@
   - and so on and so on infinitely!
 - Good example: going from [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem) to [Chern-Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Chern%E2%80%93Gauss%E2%80%93Bonnet_theorem) to [Riemann-Roch theorem](https://en.wikipedia.org/wiki/Riemann%E2%80%93Roch_theorem) to [Atiyah-Singer index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem).
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#meta-thinking)

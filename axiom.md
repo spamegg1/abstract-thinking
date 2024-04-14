@@ -6,7 +6,6 @@
   - Synchronization primitives for concurrency,
   - Geometric primitives for graphics, etc.
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#axiomatic-thinking)
-

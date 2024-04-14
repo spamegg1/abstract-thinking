@@ -3,14 +3,16 @@
 - Being aware of one's own thought processes.
 - Very closely related to meta-knowledge (see below).
 
-### Self-reflection and self-criticism
+## Self-reflection and self-criticism
 
-### The rubber-ducky (or platypus) method
+- ???
+
+## The rubber-ducky (or platypus) method
 
 - Projection onto others (get out of your own head!),
 - Empathy, and the "teacher's mind".
 
-### Meta-cognitive vocabulary starter pack
+## Meta-cognitive vocabulary starter pack
 
 - Have I *overlooked* something *obvious*?
 - Have I considered all the *possibilities*?
@@ -26,7 +28,6 @@
 - Can I *explain / teach* this to *someone else*?
 - Do others think about this *differently* than I do?
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#metacognition)
-

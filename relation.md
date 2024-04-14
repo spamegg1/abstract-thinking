@@ -6,6 +6,6 @@
   - OOP (UML diagrams, concept maps), many more.
 - Connections are informal, conceptual relations.
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#relations-and-connections)

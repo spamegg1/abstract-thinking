@@ -1,6 +1,6 @@
-![can-of-worms](images/worms.png)
-
 # Elements of Abstract Thinking
+
+![can-of-worms](images/worms.png)
 
 Welcome to the world of ***abstract nonsense!***
 
@@ -10,11 +10,11 @@ Welcome to the world of ***abstract nonsense!***
 
 ![dont-know-2](images/dontKnow2.png)
 
-I've been trying to figure out the underlying reasons why many are struggling with mathematics and computer science, *even when they have great resources and they study the subjects.* 
+I've been trying to figure out the underlying reasons why many are struggling with mathematics and computer science, *even when they have great resources and they study the subjects.*
 
 ### The Usual Suspects
 
-> ***It soon became clear that the unconscious instincts for logic and language which had enabled me to succeed were not shared by the large majority of my students.*** 
+> ***It soon became clear that the unconscious instincts for logic and language which had enabled me to succeed were not shared by the large majority of my students.***
 >
 > - Susanna Epp (author of [Discrete Mathematics with Applications, 5th edition](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-ebook/dp/B07M87BWRC))
 
@@ -33,9 +33,9 @@ It seems there is something else going on. Even after finishing courses and pass
 The journey went like this:
 
 1. Students taking programming language theory, especially parts that are *rich in recursive thinking*, struggled.
-2. First I falsely diagnosed the issue to be *recursion* and suggested studying it earlier. 
+2. First I falsely diagnosed the issue to be *recursion* and suggested studying it earlier.
 3. That didn't help much.
-4. I noticed the issue goes beyond recursion, and is more about having a poor mathematical background in general. 
+4. I noticed the issue goes beyond recursion, and is more about having a poor mathematical background in general.
 5. I suggested taking Mathematics for Computer Science earlier.
 6. Some students could not make it past even Chapter 1, section 1 of Math for CS.
 7. I suggested a much gentler, easier resource (Susanna Epp's book).
@@ -58,7 +58,7 @@ The rare advice is to seek help from books such as [How to solve it](https://www
 
 #### Insights
 
-The belief (and hope) is that math / CS "teaches you how to think." True, maybe? :thinking: But they require you to know how to think *a little*. What if you don't know how to think *at all ?* So we got a *recursive knowledge scaffolding* problem. 
+The belief (and hope) is that math / CS "teaches you how to think." True, maybe? :thinking: But they require you to know how to think *a little*. What if you don't know how to think *at all ?* So we got a *recursive knowledge scaffolding* problem.
 
 The issue is that math / CS subjects do not (usually) make abstract thinking *explicit*. Instead this thinking is *implicit* and "baked into" the subjects in subtle ways. They cover the "surface content" of the topics in an explicit fashion.
 
@@ -90,20 +90,20 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 ***And here we are...***
 
-## What this is:
+## What this is
 
 - A loose collection of the common abstract patterns and ways of thinking found everywhere, which
   - are *implicit*, *intrinsic* and *invisible*,
   - *underlie* all the subjects we study;
   - plus metacognitive skills.
-- It's ***an extremely rough draft for now***, hopefully it will be fleshed out later, with lots of examples. 
+- It's ***an extremely rough draft for now***, hopefully it will be fleshed out later, with lots of examples.
   - So, there are probably many references to things you don't know.
 - This is about ***abstract thinking within the context of mathematics and computer science.***
   - There are similarities to the scientific method:
-    - observations, hypotheses, evidence, testing 
+    - observations, hypotheses, evidence, testing
   - but they are not the focus.
 
-## What this is *not*:
+## What this is *not*
 
 - This is not about abstract thinking in the [broadest sense](https://en.wikipedia.org/wiki/Abstraction#As_used_in_different_disciplines):
   - in art, music, literature,
@@ -114,16 +114,16 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - in business, decision making,
   - etc.
 - This is not comprehensive, or hierarchical / strictly organized:
-  - thinking patterns are tied to each other in a messy tangled web, it's near impossible to make them hierarchical. 
+  - thinking patterns are tied to each other in a messy tangled web, it's near impossible to make them hierarchical.
   - Hence, "elements."
 - This is not a coverage of the Math / CS topics that are mentioned.
   - The idea is that this could be *embedded* into a math / CS curriculum *while* those topics are being taught; giving much clearer understanding.
 
 ***So... here we go!***
 
-# ***First, the human side of things:***
+## ***First, the human side of things:***
 
-# The Basic Instincts
+## The Basic Instincts
 
 ## Our physical senses and the world
 
@@ -145,8 +145,8 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to the Intuition section](intuit.md)
 
-- Our brains 
-  - take subconscious shortcuts, 
+- Our brains
+  - take subconscious shortcuts,
   - pick up on implicit things, and
   - make invisible connections.
 
@@ -171,21 +171,21 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 [Link to the Meta-knowledge section](metaknow.md)
 
 - Knowledge can have a recursive nature. So you can get stuck:
-  - "I don't know what I don't know", or 
+  - "I don't know what I don't know", or
   - "I can't figure out why I can't figure things out."
 
-# ***Now the more technical side of things:***
+## ***Now the more technical side of things:***
 
-# The logical stuff
+## The logical stuff
 
-## Syntax: symbolic thinking and symbol manipulation
+### Syntax: symbolic thinking and symbol manipulation
 
 [Link to the Symbolic thinking section](symbolic.md)
 
 - Again, ubiquitous for humans (language, writing, numbers etc.)
 - Symbols = syntax = formal = mechanical = unintuitive.
 
-## Semantics: domains and predicates
+### Semantics: domains and predicates
 
 [Link to the Semantic thinking section](semantic.md)
 
@@ -193,7 +193,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Worlds = semantics = informal = meaningful = intuitive = interpretation.
 - Humans can never agree on worlds and interpretations, keep fighting over which is "right".
 
-## Critical Thinking
+### Critical Thinking
 
 [Link to the Critical thinking section](critical.md)
 
@@ -202,13 +202,13 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - Power of negation: [Non-Euclidean geometry](https://www.youtube.com/watch?v=lFlu60qs7_4)
 - Also connection to reductionist thinking.
 
-## Reasoning
+### Reasoning
 
 [Link to the Reasoning section](reason.md)
 
 - Making or removing assumptions.
   - Very difficult for humans! (messes up the implicit models in our heads.)
-- Modus ponens: the heart of reasoning. 
+- Modus ponens: the heart of reasoning.
   - Connections to rule-based and axiomatic thinking.
 - Deductive,
 
@@ -216,7 +216,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Abductive,
 - Fuzzy reasoning.
 
-## Axiomatic thinking
+### Axiomatic thinking
 
 [Link to the Axiomatic thinking section](axiom.md)
 
@@ -224,9 +224,9 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Minimal assumptions that are taken for granted as a starting point, because they are self-evident.
 - Similarities to reductionist / atomic thinking.
 
-# Ways of thinking
+## Ways of thinking
 
-## Structural thinking
+### Structural thinking
 
 [Link to the Structures section](structure.md)
 
@@ -235,21 +235,21 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Algebraic, topological, relational, and order structures.
 - Combined, rich, complex structures: analytical, geometric, ergodic / stochastic.
 
-## Temporal thinking
+### Temporal thinking
 
 [Link to the Temporal thinking section](temporal.md)
 
-- chronological, state-based and event-based 
+- chronological, state-based and event-based
 - discrete vs. continuous
 - static vs. dynamic
 - mutating state
 - connections with timeless, stateless thinking, and rule-based thinking.
 
-## Spatial thinking (is this really "abstract"?)
+### Spatial thinking (is this really "abstract"?)
 
 - ???
 
-## Reductionist (atomic) thinking
+### Reductionist (atomic) thinking
 
 [Link to the Atomic thinking section](atomic.md)
 
@@ -262,7 +262,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - This works with wishful thinking (see Problem Solving).
 - Similarities to axiomatic thinking.
 
-## Recursive thinking
+### Recursive thinking
 
 [Link to the Recursive thinking section](recursive.md)
 
@@ -273,7 +273,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - but humans are story-oriented creatures.
 - Connection with structural thinking: self-similar structures (fractals).
 
-## Rule-based thinking
+### Rule-based thinking
 
 [Link to the Rule-based Thinking section](rulebased.md)
 
@@ -282,16 +282,16 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - is built gradually from earlier stages,
   - offers strict guarantees (invariants).
 
-# The joys of world building
+## The joys of world building
 
-## Modalities
+### Modalities
 
 [Link to the Modalities section](modality.md)
 
 - Switching between "thinking styles" (or *modes*):
   - some problems are better conceived / modeled in certain ways than others.
 
-## Paradigms
+### Paradigms
 
 [Link to the Paradigms section](paradigm.md)
 
@@ -299,7 +299,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - Switching between "expression styles":
   - some solutions are better expressed in certain ways than others.
 
-## Domain modeling
+### Domain modeling
 
 [Link to the Modeling section](model.md)
 
@@ -307,37 +307,37 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 - A family of models correspond directly to axioms that they satisfy.
 - Possible worlds and interpretations.
 
-## Relations and connections
+### Relations and connections
 
 [Link to the Relations section](relation.md)
 
-# The abstract stuff
+## The abstract stuff
 
-## Abstraction
+### Abstraction
 
 [Link to the Abstraction section](abstract.md)
 
-## Composition and decomposition
+### Composition and decomposition
 
 [Link to the Decomposition section](decompose.md)
 
 - Strong connections to Domain Modeling and Problem Solving.
 
-## Higher-order and categorical thinking
+### Higher-order and categorical thinking
 
 [Link to the Categorical thinking section](categoric.md)
 
-# The big, complex, combined stuff
+## The big, complex, combined stuff
 
-## Systems thinking
+### Systems thinking
 
 [Link to the Systems section](system.md)
 
-## Meta-thinking
+### Meta-thinking
 
 [Link to the Meta thinking section](meta.md)
 
-# Problem solving
+## Problem solving
 
 [Link to the Problem Solving section](solve.md)
 

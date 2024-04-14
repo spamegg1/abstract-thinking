@@ -49,9 +49,9 @@ Then generalize to:
 - *integrable curves* over *measurable sets*: Lebesgue integral,
 - multi-variable version of this,
 - the $p$-adic numbers instead of $\mathbb{R}$,
-- an integral over a *locally compact topological group* with a *left-invariant Haar measure*: 
+- an integral over a *locally compact topological group* with a *left-invariant Haar measure*:
   - abstract harmonic analysis!
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#abstraction)

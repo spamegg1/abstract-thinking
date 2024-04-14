@@ -4,7 +4,6 @@
 
 ## Operations, iterations and closures
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#structural-thinking)
-

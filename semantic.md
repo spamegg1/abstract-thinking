@@ -13,7 +13,6 @@
 | Soundness and Completeness | Abstract proof |  ↔   | Concrete model |
 | Curry-Howard Isomorphism   |         Proofs |  ↔   | Programs       |
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#semantics-domains-and-predicates)
-

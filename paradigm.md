@@ -27,7 +27,7 @@
 
 ### Logic Programming
 
-- "Everything is a proof search tree. Nothing else exists." 
+- "Everything is a proof search tree. Nothing else exists."
 
 ### Imperative Programming
 
@@ -36,7 +36,6 @@
 
 ## Local vs Global thinking
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#paradigms)
-

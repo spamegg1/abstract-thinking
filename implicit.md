@@ -28,6 +28,6 @@
 
 ## Contextual thinking
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#implicit-and-explicit-knowledge-contextual-thinking)

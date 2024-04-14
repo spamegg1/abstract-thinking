@@ -1,5 +1,5 @@
 # Reasoning
 
-## Work in progress!
+## Work in progress
 
-[Back to Elements](README.md/#reasoning)
+[Back to Elements](README.md#reasoning)

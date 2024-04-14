@@ -4,6 +4,6 @@
 
 ## Invariants
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#temporal-thinking)

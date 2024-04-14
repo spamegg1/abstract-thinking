@@ -43,7 +43,6 @@
   - what properties / predicates are and how to detect them;
   - ??? (more)
 
-## Work in progress!
+## Work in progress
 
 [Back to Elements](README.md#problem-solving)
-
