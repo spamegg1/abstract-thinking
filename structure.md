@@ -1,5 +1,7 @@
 # Structures and structural thinking
 
+## Equivalences, identities and isomorphisms
+
 ## Spaces and transformations
 
 ## Operations, iterations and closures
