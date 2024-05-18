@@ -1,6 +1,6 @@
 # Elements of Abstract Thinking
 
-![can-of-worms](images/worms.png)
+![can-of-worms](images/worms.jpg)
 
 Welcome to the world of ***abstract nonsense!***
 
