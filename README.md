@@ -131,7 +131,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 
 [Link to the Patterns section](./patterns.md)
 
-- Humans are pattern recognition machines.
+- Humans are [pattern recognition machines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141622/).
   - So much so, that [we see patterns even where there are none](https://en.wikipedia.org/wiki/Pareidolia).
 - Patterns can be found in anything: syntax, semantics, structures, problems, solutions, domains...
 

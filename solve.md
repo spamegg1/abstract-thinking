@@ -43,6 +43,14 @@
   - what properties / predicates are and how to detect them;
   - ??? (more)
 
+## Rules
+
+### Discovering the rules
+
+### Following the rules
+
+### Breaking the rules
+
 ## Work in progress
 
 [Back to Elements](README.md#problem-solving)
