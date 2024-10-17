@@ -293,6 +293,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - obeys rules,
   - is built gradually from earlier stages,
   - offers strict guarantees (invariants).
+- Stratification, predicativity
 
 ## The many joys of world building
 
@@ -353,6 +354,12 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 ### Meta-thinking
 
 [Link to the Meta thinking section](meta.md)
+
+### Unified theory of everything
+
+- Different fields are deeply connected.
+
+[Link to the Deep Connections section](unified.md)
 
 ## Problem solving
 
