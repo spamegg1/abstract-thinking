@@ -43,6 +43,19 @@
   - what properties / predicates are and how to detect them;
   - ??? (more)
 
+### Strategies from MAA
+
+- [01: Engage in successful flailing](https://maa.org/resource/problem-solving-strategy-1-engage-in-successful-flailing/)
+- [02: Do something](https://maa.org/resource/problem-solving-strategy-2-do-something/)
+- [03: Engage in wishful thinking](https://maa.org/resource/problem-solving-strategy-3-engage-in-wishful-thinking/)
+- [04: Draw a picture](https://maa.org/resource/problem-solving-strategy-4-draw-a-picture/)
+- [05: Solve a smaller version](https://maa.org/resource/problem-solving-strategy-5-solve-a-smaller-version-of-the-same-problem/)
+- [06: Eliminate incorrect choices](https://maa.org/resource/problem-solving-strategy-6-eliminate-incorrect-choices/)
+- [07: Perseverance is key](https://maa.org/resource/problem-solving-strategy-7-perseverance-is-key/)
+- [08: Second-guess the author](https://maa.org/resource/problem-solving-strategy-8-second-guess-the-author/)
+- [09: Avoid hard work](https://maa.org/resource/problem-solving-strategy-9-avoid-hard-work/)
+- [10: Go to extremes](https://maa.org/resource/problem-solving-strategy-10-go-to-extremes/)
+
 ## Rules
 
 ### Discovering the rules

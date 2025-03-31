@@ -106,7 +106,7 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
 ## What this is *not*
 
 - This is not about abstract thinking in the [broadest sense](https://en.wikipedia.org/wiki/Abstraction#As_used_in_different_disciplines):
-  - in science, art, music, literature,
+  - in science, [art](https://en.wikipedia.org/wiki/Mathematics_and_art), music, literature,
   - in politics, religion,
   - in military, business,
   - in decision making, etc.
