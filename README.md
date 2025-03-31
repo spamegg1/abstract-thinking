@@ -50,7 +50,7 @@ Students are told to "go get some [*maturity*](https://en.wikipedia.org/wiki/Mat
 
 ### The usual advice
 
-The general advice is to "keep doing it and eventually you'll start getting it", also known as *learning by osmosis*. Unfortunately I've seen examples where some students didn't get it even after 1-2 years of practice. The [research says](https://maa.org/node/789691) that *"...experience alone is a poor teacher. Many learners don't know the quality of their comprehension..."*
+The general advice is to "keep doing it and eventually you'll start getting it", also known as *learning by osmosis*. Unfortunately I've seen examples where some students didn't get it even after 1-2 years of practice. The [research says](https://maa.org/wp-content/uploads/2024/06/2015-CUPM-Curriculum-Guide.pdf) that *"...experience alone is a poor teacher. Many learners don't know the quality of their comprehension..."*
 
 Another common advice is to take Calculus first, to gain enough maturity for Discrete math and proofs. I've seen students who successfully completed 3 Calculus courses and then fail at even the most basic problems in Discrete Mathematics after months of study. (Once again, these students are not stupid, or lazy.)
 
