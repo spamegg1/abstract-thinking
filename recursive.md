@@ -100,18 +100,19 @@ This solution has 1 remarkable quality. To solve the area problem for a triangle
 
 You only need to figure out how to combine the solution to a simpler version of the problem, in this case the area of the smaller triangle, with the extra input of your problem, in this case the width, to find a solution to your problem, the area of the triangle with the wider base.
 
-### the mental model for coming up with recursive solutions:
+### the mental model for coming up with recursive solutions
 
-The steps to follow when coming up with a recursive solution are the following:
-1. consider various ways to simplify the inputs, e.g. the area of the smaller triagle
-2. combine solutions with simpler inputs into a solution for the original problem, e.g. `smallerTraingleArea` + `width` 
-3. find solutions to the simplest inputs, e.g. `if (width == 1) { area = 1 }`
-4. implement the solution by combining the simple cases, and the simplification followed by combination step. e.g.
+The steps to follow when coming up with a recursive solution are the following.
+
+1. Consider various ways to simplify the inputs, e.g. the area of the smaller triangle
+2. Combine solutions with simpler inputs into a solution for the original problem, e.g. `smallerTriangleArea` + `width`
+3. Find solutions to the simplest inputs, e.g. `if (width == 1) { area = 1 }`
+4. Implement the solution by combining the simple cases, and the simplification followed by combination step. e.g.
 
 ```java
 if this.width == 1 { area = 1 }
 else {
-  smallerTraingle = Triangle(width = this.width - 1)
+  smallerTriangle = Triangle(width = this.width - 1)
   area = smallerTriangle.getArea() + this.width
 }
 ```
