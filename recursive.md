@@ -56,7 +56,7 @@ Similar to before, if we knew the area of the smaller triangle with width 2, the
 
 Now we can complete a recursive computation for getting the area of any given triangle:
 
-1. if area is equal to 1, the area of this triangle is 1
+1. if width is equal to 1, the area of this triangle is 1
 2. otherwise, the smaller triangle is the triangle with width equal to this traingle's width - 1
 3. and the area of this triangle is equal to the area of the smaller triangle plus the width of this triangle.
 
