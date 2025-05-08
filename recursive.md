@@ -16,9 +16,7 @@ For example, if we look at a triangle made from shapes such as this one:
 [][][]
 ```
 
-We’d like to compute the area of the triangle assuming each square has area 1.
-
-You may know there is a simple formula for computing the area of a triangle, `base * height / 2`, but the purpose of this example is to explain the concept of recursion by walking through an example.
+We’d like to compute the area of the triangle assuming each square has area 1. The purpose of this example is to explain the concept of recursion by walking through an example.
 
 If the width of the triangle is 1, then the triangle consists of a single square, and the area is 1.
 
@@ -31,7 +29,7 @@ To deal with the general case, consider this picture:
 [][][][]
 ```
 
-Suppose we knew the are of the upper triangle with width 3. Then we could easily compute the area of the larger traingle as:
+Suppose we knew the area of the upper triangle with width 3. Then we could easily compute the area of the larger traingle as:
 `smallerTriangleArea` + `width`.
 
 How can we get the area of the smaller triangle?
