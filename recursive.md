@@ -29,7 +29,7 @@ To deal with the general case, consider this picture:
 [][][][]
 ```
 
-Suppose we knew the area of the upper triangle with width 3. Then we could easily compute the area of the larger traingle as:
+Suppose we knew the area of the upper triangle with width 3. Then we could easily compute the area of the larger triangle as:
 `smallerTriangleArea` + `width`.
 
 How can we get the area of the smaller triangle?
