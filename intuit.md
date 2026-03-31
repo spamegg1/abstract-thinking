@@ -71,7 +71,7 @@ of using Windows, ***so their minds are familiar with it***.
 - Re-learning or un-learning is quite a time and calorie investment,
   - with uncertain payoffs...
 
-#### An example
+##### An example
 
 - When users want to switch operating systems, say going from Windows to Linux,
 the most difficult part is often...
@@ -105,6 +105,50 @@ the most difficult part is often...
   - or was not even in the standard solution methods or known techniques.
 
 ## Developing your intuition
+
+### Layered intuition and mapping between the layers
+
+We actually build and stack multiple layers of intuition and connect them in a way
+such that we can travel up and down, back and forth, side to side inside them.
+
+Here is an example:
+
+- When I look at a formula, such as a Taylor series or an integral, like:
+  - $\sum_{n = 0}^{\infty} \frac{f^{(n)}(a)}{n!} \cdot (x - a)^n$ or
+  - $\int_{0}^{\infty} \frac{1}{x^2} dx$,
+  - I have some "visual intuition" about *the formulas and symbols themselves*,
+  - but this intuition for symbols is not *an end in itself*.
+- Instead it is a "shorthand" or a "compressed version" of other layers of intuition:
+  - over the years I built up visual intuition about:
+    - the various graphs of functions that are the approximations obtained by
+      successively adding one more term of the Taylor series,
+      slowly inching closer to the "real graph" of the function,
+    - the ever-shrinking "sharp corners" that can be seen by infinitely zooming into
+      the graph of the function, which are "smoothed over" by approximating it
+      more closely with the higher order derivatives,
+    - etc.
+- And I "wired" these layers of intuition so that:
+  - when I just look at the logical / symbolic formulas,
+    my mind does not get stuck on the "meaningless formulas" or try to parse them,
+  - instead I connect it to the lower layers of visual intuition,
+  - but I do this subconsciously without explicitly visualizing them.
+- So the result is a way of thinking where:
+  - I "see" a "blurry" version of the logical symbols,
+  - I "see" a "blurry" version of the lower layers of visualization,
+  - I don't have to see any layer "very clearly".
+- But, depending on the needs of the problem, I can:
+  - "increase the resolution" of a particular layer to improve clarity and reduce blur,
+  - "decrease the resolution" of a particular layer if it's getting in the way.
+- The important part is not "which kind of intuition is the right one".
+- What's important is
+  - the flexibility to move back and forth, also "sideways",
+  - travel between different thinking styles and intuitions,
+  - to increase / decrease "zoom" at will,
+  - and have strong "wiring" between layers.
+
+### Mathematical intuition vs. logic
+
+- [How mathematicians think intuitively or logically](https://www.youtube.com/watch?v=KE2sybQCalA)
 
 ### How to develop your insight
 
