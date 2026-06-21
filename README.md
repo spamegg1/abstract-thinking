@@ -127,11 +127,27 @@ There is simply no way around this. Abstract thinking *HAS TO BE LEARNED.* And I
   - It could be *embedded* into a math / CS curriculum *while* those topics are being taught;
   - giving much clearer understanding.
 
-***So... here we go!***
-
 ## How to Use
 
-TODO
+*Still work in progress!*
+
+This is not a piece of software you can run, or a list of math problems you can solve.
+It's just... thinking. So it is a bit difficult to use at first.
+
+Read through the list of elements below, in linear order. Each section has examples.
+While reading, have pen and paper to think through the ideas being explained.
+
+At the end of each section there is also an exercise to put that thinking to practice.
+These exercises (usually) do not have right or wrong answers, they are more open-ended.
+Once again, have pen and paper at the ready and write out your ideas.
+Then you can check *one of the many possible solutions* I outline at the end.
+
+After having done all that, you might still be wondering what to do, or how to use them.
+I will try to provide more exercises... but it's time to pick up a math or CS book
+and start solving, while being *conscious* of using which
+of the thinking patterns you learned.
+
+***So... here we go!***
 
 ## The List of Elements
 
