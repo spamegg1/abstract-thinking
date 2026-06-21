@@ -7,6 +7,30 @@
 - Humans see and form relations everywhere between things / people, which give rise to *relational patterns*.
 - Humans observe / exhibit behaviors and think behaviorally, which gives rise to *behavioral patterns*.
 
+## Order patterns
+
+TODO
+
+## Spatial patterns
+
+TODO
+
+## Temporal patterns
+
+TODO
+
+## Causal patterns
+
+TODO
+
+## Relational patterns
+
+TODO
+
+## Behavioral patterns
+
+TODO
+
 ## Work in progress
 
 [Back to our physical senses and the world](README.md)

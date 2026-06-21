@@ -28,6 +28,8 @@
 
 ## Contextual thinking
 
+TODO
+
 ## Work in progress
 
 [Back to our subconscious stuff](README.md)

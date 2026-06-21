@@ -1,31 +1,46 @@
 # Problem Solving
 
-- Basically, *Applied Abstract Thinking*.
-- [The essentials of problem solving](https://www.youtube.com/watch?v=6DxTQiJuAoc)
+Basically, *Applied Abstract Thinking*.
+
+[The essentials of problem solving](https://www.youtube.com/watch?v=6DxTQiJuAoc)
 
 ## Domain-general knowledge
 
+TODO
+
 ## Domain-specific knowledge
 
-## Knowledge transfer from general to specific
+TODO
+
+## Knowledge transfer from general to specific, and vice versa
+
+TODO
 
 ## The art of problem solving
 
+There are many strategies we can use in problem solving.
+
 ### Constraints and trade-offs
+
+TODO
 
 ### Implicit assumptions and context
 
+TODO
+
 ### Insights
+
+TODO
 
 ### General strategies and thinking
 
-- Wishful thinking and making wish lists;
-- Outside-the-box, or lateral thinking: "putting out fires with sound";
-- Goal-oriented solving: start at the end, work backward;
-- Domain analysis, problem breakdown, solution design (blueprinting);
-- Look at it from real up close, look at it from ten miles away;
-- search for a solution = proof search in a proof tree;
-- ??? (more)
+- Wishful thinking and making wish lists
+- Outside-the-box, or lateral thinking: "putting out fires with sound"
+- Goal-oriented solving: start at the end, work backward
+- Domain analysis, problem breakdown, solution design (blueprinting)
+- Look at it from real up close, look at it from ten miles away
+- search for a solution = proof search in a proof tree
+- TODO
 
 ### "Convert, solve, convert back" paradigm
 
@@ -44,7 +59,7 @@
   - the (cumulative) past determines the present;
   - how abstraction works, infinite families of mathematical objects;
   - what properties / predicates are and how to detect them;
-  - ??? (more)
+  - TODO
 
 ### Strategies from MAA
 
@@ -61,11 +76,20 @@
 
 ## Rules
 
+Rules can be discovered or invented;
+they can be helpful guiding principles, or detrimental if they become too rigid.
+
 ### Discovering the rules
+
+TODO
 
 ### Following the rules
 
+TODO
+
 ### Breaking the rules
+
+TODO
 
 ## Work in progress
 

@@ -10,6 +10,8 @@
 
 [Link to the Meta-knowledge section](metaknow.md)
 
+**Quick overview:**
+
 - Knowledge can have a recursive nature. So you can get stuck:
   - "I don't know what I don't know", or
   - "I can't figure out why I can't figure things out."

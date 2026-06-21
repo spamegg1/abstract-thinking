@@ -1,5 +1,17 @@
 # Semantic thinking and predicates
 
+## Domains: abstracting the physical world
+
+TODO
+
+## Predicates: abstracting physical properties
+
+TODO
+
+## Adding meaning and truth to domains and predicates
+
+TODO
+
 ## Syntax vs semantics
 
 - Constant tension between symbols and meaning.

@@ -5,7 +5,7 @@
 
 ## Self-reflection and self-criticism
 
-- ???
+TODO
 
 ## The rubber-ducky (or platypus) method
 
@@ -34,7 +34,7 @@
 
 From [Promoting metacognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3366894/table/T1/)
 
-To promote student metacognition about learning:
+#### To promote student metacognition about learning
 
 |Activity|Planning (before)|Monitoring (during)|Evaluating (after)|
 |:-------|:----------------|:------------------|:-----------------|
@@ -58,6 +58,19 @@ To promote student metacognition about learning:
 ||How am I going to actively monitor my learning in this course?|How interested am I in this course? How confident am I in my learning? What could I do to increase my interest and confidence?|If I were to teach this course, how would I change it?|
 ||What do I most want to learn in this course?||What have I learned about how I learn in this course that I could use in my future biology/science courses? In my career?|
 ||What do I want to be able to do by the end of this course?|||
+
+#### To integrate metacognition into course activities
+
+From [Promoting metacognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3366894/table/T2/)
+
+|Pair discussion after a clicker question|Active-learning tasks and/or homework assignments (e.g., case studies, concept maps, problem sets)|Preparation for quizzes or exams|
+|:-|:-|:-|
+|Share how you thought about what the question was asking.|Pose three questions that you had about the concepts you explored in your assignment that you still cannot answer.|How do you plan on preparing for the upcoming exam? Why?|
+|Share the process you used to arrive at an answer you wanted to choose.|Describe at least two ideas related to this assignment that you found confusing.|What resources are available to support you? How will you make sure to use these?|
+|What was your main reason for choosing your answer, and what were the main reasons you did not choose each of the other answers?|“I learned a lot in doing this assignment.” To what extent do you agree? disagree?|How does your strategy for exam preparation compare with at least three colleagues in your lab section? (Go ask them!)|
+|How did your ideas compare with your neighbor's ideas?|How was the way you approached completing this assignment different compared with the last time we had an assignment like this?|What concepts have you found most confusing so far? What concepts have been most clear? Given that, how should you spend your study time in preparing for the exam?|
+|What was most confusing to you about this question?|What advice would you give yourself based on what you know now if you were starting this assignment all over again?|Based on your performance on the first exam, write a letter to yourself with advice about preparing for the next exam.|
+|How confident are you in your answer? Why? What else would you need to know to increase your confidence?|||
 
 ## Work in progress
 

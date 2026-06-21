@@ -4,12 +4,16 @@
 
 [Link to the Modalities section](./modality.md)
 
+**Quick overview:**
+
 - Switching between "thinking styles" (or *modes*):
   - some problems are better conceived / modeled in certain ways than others.
 
 ## Paradigms
 
 [Link to the Paradigms section](./paradigm.md)
+
+**Quick overview:**
 
 - Changing the focal point through which the world is viewed and expressed.
 - Switching between "expression styles":
@@ -18,6 +22,8 @@
 ## Domain modeling
 
 [Link to the Modeling section](./model.md)
+
+**Quick overview:**
 
 - Parts of:
   - [structural](../ways/structure.md),

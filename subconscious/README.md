@@ -4,6 +4,8 @@
 
 [Link to the Intuition section](intuit.md)
 
+**Quick overview:**
+
 - Our brains
   - take subconscious shortcuts,
   - pick up on implicit things, and
@@ -14,6 +16,8 @@
 ## Implicit and Explicit knowledge, Contextual thinking
 
 [Link to the Implicit and Explicit knowledge section](implicit.md)
+
+**Quick overview:**
 
 - Assumptions and background knowledge are
   - unavoidable,

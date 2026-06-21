@@ -4,7 +4,7 @@ What is intuition? How do we even define it?
 
 ## Common views on intuition
 
-There are a few commonly held views about intuition.
+There are a few popular views about intuition.
 
 ### Intuition is Instinctive
 
@@ -18,43 +18,6 @@ There are a few commonly held views about intuition.
   - So, it feels like X is "intuitive" or was designed to be intuitive.
   - Then, if we encounter Y, which is different than X,
   it feels "un-intuitive" or badly designed.
-
-#### Example
-
-- Many users of Microsoft Windows say that the GUI (graphical user interface)
-is very intuitive; like it was designed based on universal human perception.
-- But this is simply a fallacy; the reason is that the users had so many years
-of using Windows, ***so their minds are familiar with it***.
-- In fact this is true in general.
-  - Some Mac users who have to use Windows will claim that Windows is "un-intuitive".
-  - Same goes for long time Adobe Photoshop users who try to use GIMP,
-  - and so on...
-- There is generally no way to come up with a universally obvious thing.
-- Our minds strongly prefer what's familiar, and reject the unfamiliar.
-  - And this depends on many things: life experience, culture, geography...
-
-##### Details
-
-- Microsoft did conduct some user research and
-[case studies](https://www.semanticscholar.org/paper/The-Windows-95-user-interface:-a-case-study-in-Sullivan/f3f00464842f2ccac1134fca2ae43b8ab7ef04cb),
-  - but that's not the point.
-- They used the already familiar "office desk" metaphor for the GUI.
-- People had decades of familiarity with office desks, files, folders, cabinets.
-  - Younger generations that grew up in the digital world are now
-  struggling with this old metaphor. It is unfamiliar to them.
-  - [Read here](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
-- Many users still struggled with the Windows 95 GUI at the beginning.
-- For example, here are two excerpts from the case study:
-  > Beginning users and many intermediates were confused
-  by the two-pane view of File Cabinet. (See Figure 3.)
-  They were unsure of the relationship between the panes
-  and how to navigate between folders.
-- Even experienced users *already familiar with the GUI* were confused:
-  > Users of every type were confused by the Programs folder.
-  We thought that having a folder on the desktop with other folders and
-  links to programs inside it would be a natural transition for Windows 3.1
-  users accustomed to Program Manager,
-  while being relatively easy to learn for beginners. We were wrong!
 
 #### The unfamiliar is scary
 
@@ -70,18 +33,6 @@ of using Windows, ***so their minds are familiar with it***.
 - So, rewiring the brain is very costly, purely from an economic perspective.
 - Re-learning or un-learning is quite a time and calorie investment,
   - with uncertain payoffs...
-
-##### An example
-
-- When users want to switch operating systems, say going from Windows to Linux,
-the most difficult part is often...
-  - **not** how to get things done with new and different software,
-    - as there is usually the same app, or a good substitute that can get the job done;
-  - but the *learning* involved, and adapting to new unfamiliar things.
-- Because it is quite an investment to re-learn,
-  - people expect the payoff to be very high:
-  - *Linux should be just like Windows, but better.*
-  - [Good reading on this](https://linux.oneandoneis2.org/LNW.htm)
 
 ### Intuition is Speed & Repetition
 
@@ -116,35 +67,35 @@ Here is an example:
 - When I look at a formula, such as a Taylor series or an integral, like:
   - $\sum_{n = 0}^{\infty} \frac{f^{(n)}(a)}{n!} \cdot (x - a)^n$ or
   - $\int_{0}^{\infty} \frac{1}{x^2} dx$,
-  - I have some "visual intuition" about *the formulas and symbols themselves*,
+  - I have some visual intuition about *the formulas and symbols themselves*,
   - but this intuition for symbols is not *an end in itself*.
-- Instead it is a "shorthand" or a "compressed version" of other layers of intuition:
+- Instead it is a shorthand or a compressed version of other layers of intuition:
   - over the years I built up visual intuition about:
     - the various graphs of functions that are the approximations obtained by
       successively adding one more term of the Taylor series,
-      slowly inching closer to the "real graph" of the function,
-    - the ever-shrinking "sharp corners" that can be seen by infinitely zooming into
-      the graph of the function, which are "smoothed over" by approximating it
+      slowly inching closer to the real graph of the function,
+    - the ever-shrinking sharp corners that can be seen by infinitely zooming into
+      the graph of the function, which are smoothed over by approximating it
       more closely with the higher order derivatives,
     - etc.
-- And I "wired" these layers of intuition so that:
+- And I connected these layers of intuition so that:
   - when I just look at the logical / symbolic formulas,
-    my mind does not get stuck on the "meaningless formulas" or try to parse them,
+    my mind does not get stuck on the meaningless formulas or try to parse them,
   - instead I connect it to the lower layers of visual intuition,
   - but I do this subconsciously without explicitly visualizing them.
 - So the result is a way of thinking where:
-  - I "see" a "blurry" version of the logical symbols,
-  - I "see" a "blurry" version of the lower layers of visualization,
-  - I don't have to see any layer "very clearly".
+  - I see a blurry version of the logical symbols,
+  - I see a blurry version of the lower layers of visualization,
+  - I don't have to see any layer very clearly.
 - But, depending on the needs of the problem, I can:
   - "increase the resolution" of a particular layer to improve clarity and reduce blur,
   - "decrease the resolution" of a particular layer if it's getting in the way.
-- The important part is not "which kind of intuition is the right one".
+- The important part is not which kind of intuition is the right one.
 - What's important is
-  - the flexibility to move back and forth, also "sideways",
+  - the flexibility to move back and forth, also sideways,
   - travel between different thinking styles and intuitions,
-  - to increase / decrease "zoom" at will,
-  - and have strong "wiring" between layers.
+  - to increase / decrease resolution at will,
+  - and have strong connection between layers.
 
 ### Mathematical intuition vs. logic
 
@@ -161,9 +112,9 @@ Here is an example:
 - Many others before us had insights, which they passed down to us.
 - These are ideas, ways to attack a problem that go beyond the normal standard
 techniques or procedures.
-  - Example: ???
+  - Example: TODO
 
-#### Look beneath the surface, and "mine" for insightful ideas
+#### Look beneath the surface, and mine for insightful ideas
 
 - When you come up with a solution yourself, or read someone else's solution,
   - look for deeper ideas that were part of it,

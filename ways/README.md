@@ -4,6 +4,8 @@
 
 [Link to the Structures section](./structure.md)
 
+**Quick overview:**
+
 - Realizing the [semantics](../logic/semantic.md), capturing semantics in a concrete way
 - Connections to [modeling](../world/model.md) and [axiomatic thinking](../logic/axiom.md)
 - Many types of structures:
@@ -22,6 +24,8 @@
 
 [Link to the Temporal thinking section](./temporal.md)
 
+**Quick overview:**
+
 - chronological, state-based and event-based
 - discrete vs. continuous
 - static vs. dynamic
@@ -31,6 +35,8 @@
 ## Reductionist (atomic) thinking
 
 [Link to the Atomic thinking section](./atomic.md)
+
+**Quick overview:**
 
 - Break into smaller parts,
   - then even smaller,
@@ -45,6 +51,8 @@
 
 [Link to the Recursive thinking section](./recursive.md)
 
+**Quick overview:**
+
 - Self-reference and self-similarity (fractals)
 - This is found in nature, biology recurs.
   - See fractal broccoli picture :broccoli:
@@ -57,6 +65,8 @@
 ## Rule-based thinking
 
 [Link to the Rule-based Thinking section](./rulebased.md)
+
+**Quick overview:**
 
 - Completely controlled world that:
   - obeys rules,
