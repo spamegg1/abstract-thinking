@@ -1,9 +1,8 @@
 # Intuition and intuitive thinking
 
-What is intuition? How do we even define it?
-
 ## Common views on intuition
 
+What is intuition? How do we even define it?
 There are a few popular views about intuition.
 
 ### Intuition is Instinctive
@@ -16,13 +15,12 @@ There are a few popular views about intuition.
 - One commonly known aspect of intuition is to be familiar with something.
   - When we are familiar with, say X, our brains don't have to work so hard.
   - So, it feels like X is "intuitive" or was designed to be intuitive.
-  - Then, if we encounter Y, which is different than X,
-  it feels "un-intuitive" or badly designed.
+- Then, if we encounter Y, it feels "un-intuitive" or badly designed.
 
 #### The unfamiliar is scary
 
 - Our instincts make us run away from unfamiliar things, as they might be dangerous.
-- This has far reaching consequences like discrimination, nepotism, conflict, war, etc.
+- This has far reaching consequences like discrimination, conflict, war, etc.
 
 #### The unfamiliar is expensive
 
@@ -54,14 +52,35 @@ There are a few popular views about intuition.
 - Insight is that clever, magical creative leap, like pulling a rabbit out of a hat.
   - Coming up with a novel idea, which was not in the problem,
   - or was not even in the standard solution methods or known techniques.
+- It is very difficult to teach how to create insight.
 
 ## Developing your intuition
 
+- Try to [invent the solution](https://youtu.be/Dm68uFy6gus?t=436),
+  - even if you have no idea, and it's completely new to you.
+- <https://betterexplained.com/articles/developing-your-intuition-for-math/>
+
+### Get insight from others
+
+- Many others before us had insights, which they passed down to us.
+- These are ideas, ways to attack a problem that go beyond the normal standard
+  techniques or procedures.
+  - Example: TODO
+
+### Look beneath the surface, and mine for insightful ideas
+
+- When you come up with a solution yourself, or read someone else's solution,
+  - look for deeper ideas that were part of it,
+  - how the ideas can be generalized, transformed, applied to other things.
+
+### Mathematical intuition vs. logic
+
+- [How mathematicians think intuitively or logically](https://www.youtube.com/watch?v=KE2sybQCalA)
+
 ### Layered intuition and mapping between the layers
 
-We actually build and stack multiple layers of intuition and connect them in a way
+We can build and stack multiple layers of intuition and connect them in a way
 such that we can travel up and down, back and forth, side to side inside them.
-
 Here is an example:
 
 - When I look at a formula, such as a Taylor series or an integral, like:
@@ -96,29 +115,6 @@ Here is an example:
   - travel between different thinking styles and intuitions,
   - to increase / decrease resolution at will,
   - and have strong connection between layers.
-
-### Mathematical intuition vs. logic
-
-- [How mathematicians think intuitively or logically](https://www.youtube.com/watch?v=KE2sybQCalA)
-
-### How to develop your insight
-
-- Try to [invent the solution](https://youtu.be/Dm68uFy6gus?t=436),
-  - even if you have no idea, and it's completely new to you.
-- <https://betterexplained.com/articles/developing-your-intuition-for-math/>
-
-#### Get insight from others
-
-- Many others before us had insights, which they passed down to us.
-- These are ideas, ways to attack a problem that go beyond the normal standard
-techniques or procedures.
-  - Example: TODO
-
-#### Look beneath the surface, and mine for insightful ideas
-
-- When you come up with a solution yourself, or read someone else's solution,
-  - look for deeper ideas that were part of it,
-  - how the ideas can be generalized, transformed, applied to other things.
 
 ## Work in progress
 

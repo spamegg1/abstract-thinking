@@ -1,12 +1,30 @@
 # Composition and decomposition
 
-## Physical world: chemistry and biology
+## Physical world examples
+
+### Chemistry
+
+TODO
+
+### Biology
+
+TODO
 
 ## Recognizing the parts of a composite
 
+TODO
+
 ## Recognizing composition operations
 
+TODO
+
 ## Reversing composition operations
+
+TODO
+
+## Exercise
+
+TODO
 
 ## Work in progress
 

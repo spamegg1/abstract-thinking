@@ -1,4 +1,4 @@
-# The abstract stuff
+# Abstract stuff
 
 ## Abstraction
 

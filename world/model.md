@@ -1,5 +1,7 @@
 # Models and domain modeling
 
-## Work in progress
+## Exercise
 
-[Back to the many joys of world building](README.md)
+TODO
+
+[Back to joys of world building](README.md)

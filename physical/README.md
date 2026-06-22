@@ -1,5 +1,16 @@
 # Our physical senses and the world
 
+## Connections to the physical world
+
+[Link to the Physical world section](physical.md)
+
+**Quick overview:**
+
+- Our brains evolved to deal with the physical world.
+- Our brains create simplified abstract representations of the
+  physical world in our head for problem solving for survival.
+- So most of our abstractions are in some way rooted in physical reality.
+
 ## Pattern recognition
 
 [Link to the Patterns section](patterns.md)
@@ -12,13 +23,8 @@
   - [syntax](../logic/symbolic.md),
   - [semantics](../logic/semantic.md),
   - [structures](../ways/structure.md),
-  - problems,
-  - [solutions](../solve/README.md),
+  - [problems, solutions](../solve/README.md),
   - [domains](../world/model.md)...
-
-## Connections to the physical world
-
-[Link to the Physical world section](physical.md)
 
 ## Visual, spatial thinking
 

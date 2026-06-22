@@ -1,4 +1,4 @@
-# The meta stuff in our heads
+# Meta stuff in our heads
 
 ## Metacognition
 
@@ -15,9 +15,5 @@
 - Knowledge can have a recursive nature. So you can get stuck:
   - "I don't know what I don't know", or
   - "I can't figure out why I can't figure things out."
-
-## Meta-thinking
-
-[Link to the Meta thinking section](meta.md)
 
 [Back to the Elements](../README.md)

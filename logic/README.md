@@ -1,4 +1,4 @@
-# The logical stuff
+# Logical stuff
 
 ## Syntax: symbolic thinking and symbol manipulation
 

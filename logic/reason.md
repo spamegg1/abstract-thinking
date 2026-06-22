@@ -8,7 +8,7 @@ TODO
 
 TODO
 
-## Modus ponens, causality
+## Modus ponens, cause and effect
 
 TODO
 
@@ -27,6 +27,14 @@ TODO
 ## Abductive reasoning
 
 "Take your best shot" approach
+
+TODO
+
+## Complex example with many types of reasoning
+
+TODO
+
+## Exercise
 
 TODO
 

@@ -10,7 +10,6 @@
   - take subconscious shortcuts,
   - pick up on implicit things, and
   - make invisible connections.
-
 - Connection to wishful thinking (see [problem solving](../solve/README.md)).
 
 ## Implicit and Explicit knowledge, Contextual thinking

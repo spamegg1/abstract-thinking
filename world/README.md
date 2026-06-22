@@ -1,4 +1,4 @@
-# The many joys of world building
+# Joys of world building
 
 ## Modalities
 

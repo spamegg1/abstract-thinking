@@ -1,7 +1,20 @@
 # Implicit and explicit knowledge
 
-- Assumptions and "background knowledge" are unavoidable, and necessary.
-- Always keep "dancing back and forth" between:
+## Assumptions and background knowledge
+
+Assumptions and background knowledge are unavoidable and necessary.
+
+### Examples of implicit assumptions
+
+TODO
+
+### How to deal with assumptions: expect them and watch out
+
+TODO
+
+## Moving between implicit and explicit
+
+- Always keep dancing back and forth between:
   - implicit and explicit knowledge,
   - syntax and semantics,
   - formal and informal,
@@ -26,7 +39,15 @@
   - which makes it an interesting example of meta-thinking!
 - It happens all the time without us noticing.
 
+### Examples of implicit conversions
+
+TODO
+
 ## Contextual thinking
+
+TODO
+
+### Context switching
 
 TODO
 

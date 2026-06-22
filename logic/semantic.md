@@ -1,4 +1,4 @@
-# Semantic thinking and predicates
+# Semantic thinking
 
 ## Domains: abstracting the physical world
 

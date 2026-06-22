@@ -1,11 +1,9 @@
 # Visual thinking
 
-Visual thinking has a few fundamental elements.
-There are more, but these are the most important ones.
-
 ## Elements
 
-TODO
+Visual thinking has a few fundamental elements.
+There are more of course, but here are some of the most important ones.
 
 ### Distance
 
