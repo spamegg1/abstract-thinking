@@ -1,6 +1,7 @@
 # Unified theory
 
-Taken from [Computational Trilogy](https://ncatlab.org/nlab/show/computational+trilogy), it's actually more of a quadrilogy (or tetralogy).
+Taken from [Computational Trilogy](https://ncatlab.org/nlab/show/computational+trilogy),
+it's actually more of a quadrilogy (or tetralogy).
 
 | **logic**                            | **set theory**                                         | **category theory**                                             | **type theory**                                                                       |
 |--------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -41,6 +42,12 @@ Taken from [Computational Trilogy](https://ncatlab.org/nlab/show/computational+t
 | (absence of) contraction rule        |                                                        | (absence of) diagonal                                           | no-cloning theorem                                                                    |
 |                                      |                                                        | synthetic mathematics                                           | domain specific embedded programming language                                         |
 
-## Work in progress
+## Examples
+
+TODO
+
+## Exercises
+
+TODO
 
 [Back to the big, complex, combined stuff](README.md)

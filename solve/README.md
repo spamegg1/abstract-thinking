@@ -74,23 +74,8 @@ TODO
 - [09: Avoid hard work](https://maa.org/resource/problem-solving-strategy-9-avoid-hard-work/)
 - [10: Go to extremes](https://maa.org/resource/problem-solving-strategy-10-go-to-extremes/)
 
-## Rules
-
-Rules can be discovered or invented;
-they can be helpful guiding principles, or detrimental if they become too rigid.
-
-### Discovering the rules
+## Exercises
 
 TODO
-
-### Following the rules
-
-TODO
-
-### Breaking the rules
-
-TODO
-
-## Work in progress
 
 [Back to the Elements](../README.md)
