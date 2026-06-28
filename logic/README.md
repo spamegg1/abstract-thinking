@@ -1,6 +1,6 @@
 # Logical stuff
 
-## Syntax: symbolic thinking and symbol manipulation
+## Symbolic thinking
 
 [Link to the Symbolic thinking section](./symbolic.md)
 

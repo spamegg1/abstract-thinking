@@ -171,7 +171,8 @@ a bit more explicit and not much else!
 This is not a piece of software you can run, or a list of math problems you can solve.
 It's just... thinking. So it is a bit difficult to use at first.
 
-Read through the list of elements below, in linear order. Each section has examples.
+Read through the list of elements below, ***in linear order***.
+Each section has examples.
 While reading, have pen and paper to think through the ideas being explained.
 
 At the end of each section there is also an exercise to put that thinking to practice.
