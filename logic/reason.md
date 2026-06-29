@@ -17,7 +17,9 @@ TODO
 > ***WARNING:*** *Mathematical induction* is a form of deductive reasoning!
 > Do not be confused by the *induction* in its name.
 
-Discover what is necessarily forced to be true from facts, by laws of inference.
+Discover what is necessarily forced to be true from facts, by sound laws of inference.
+Conclusion is always true whenever all premises are true (sound).
+Deals with certainty and necessity.
 
 TODO
 
@@ -26,7 +28,36 @@ TODO
 > ***WARNING:*** Not to be confused with *mathematical induction*
 > which is a form of deductive reasoning!
 
-Generalize from examples.
+Generalize from examples or samples.
+Conclusion can be false even if all premises are true (unsound).
+Deals with probability, not necessity or certainty.
+
+### Statistical
+
+TODO
+
+### Enumerative
+
+Generalize based on the number of instances that support a conclusion.
+The more supporting instances, the stronger the conclusion.
+Reason from particular instances to all instances.
+
+TODO
+
+### Eliminative
+
+Generalize based on the variety of instances that support a conclusion.
+As the variety of instances increases,
+the more possible conclusions based on those instances
+can be identified as incompatible and eliminated.
+
+TODO
+
+### Bayesian inference
+
+TODO
+
+### Inductive inference
 
 TODO
 
@@ -85,8 +116,8 @@ Abduction can mean a variety of reasoning processes.
 
 #### Statistical Reasoning: Medical Diagnosis
 
-- Jane Jones recovered quite rapidly from a streptococci infection after she
-  was given a dose of penicillin.
+- Jane Jones recovered quite rapidly from a streptococci
+  infection after she was given a dose of penicillin.
 - Almost all streptococcus infections clear up quickly upon administration of penicillin,
   - unless they are penicillin-resistant,
   - in which case the probability of quick recovery is rather small.
