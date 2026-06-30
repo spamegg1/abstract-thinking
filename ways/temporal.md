@@ -1,10 +1,18 @@
 # Temporal thinking
 
-## States, transitions, state machines (automata)
+## State machines (automata)
 
 TODO
 
-## Mutation and Invariants
+### States
+
+TODO
+
+### State transitions
+
+TODO
+
+### Mutation and Invariants
 
 TODO
 

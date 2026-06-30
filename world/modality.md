@@ -2,24 +2,38 @@
 
 ## Aspects of modalities
 
-We can vary:
+We can vary the following aspects.
 
-## The active agent and the nature of knowledge (epistemology)
+### The nature of knowledge
 
-- "something is true" vs. "*I know* something is true" vs. "something is *provable*",
+- "something is true"
+- "*I know* something is true"
+- "something is *provable*"
 
-## The nature of truth
+### The nature of truth
 
-- *necessary truth* vs. *possible truth* vs. *contingent truth*,
+- *necessary truth*
+- *possible truth*
+- *contingent truth*
 
-## The type and goal of the activity
+### The type or goal of the activity
 
-- *calculating* vs. *proving* vs. *exploring* vs. *guessing / heuristics*,
+- *calculating*
+- *proving*
+- *exploring*
+- *guessing / heuristics*
 
-## The accuracy
+### The accuracy
 
-- *deterministic* vs *probabilistic* vs *stochastic*,
-- *exact* vs *approximate*.
+- *deterministic*
+- *probabilistic*
+- *stochastic*
+- *exact*
+- *approximate*
+
+TODO
+
+## Switching between modalities
 
 TODO
 

@@ -1,10 +1,13 @@
 # Relations
 
+## Recognizing relations
+
 - Lots of things are based on relations:
   - Graphs (social networks, GraphQL),
   - Databases (relational set theory),
   - OOP (UML diagrams, concept maps), many more.
-- Connections are informal, conceptual relations.
+
+TODO
 
 ## Types of relations
 
@@ -12,23 +15,17 @@
 
 TODO
 
-## Specialized types
-
-### Order relations
-
-TODO
-
-### Trees
+### In terms of inputs and outputs: one-to-many, many-to-one
 
 TODO
 
 ## Properties of relations
 
-### Reflexivity
+### Reflexivity and irreflexivity
 
 TODO
 
-### Symmetry and anti-symmetry
+### Symmetry, asymmetry and antisymmetry
 
 TODO
 
@@ -36,11 +33,31 @@ TODO
 
 TODO
 
-## Recognizing relations
+### Connectivity
 
 TODO
 
-## Exercise
+## Very common specialized relations
+
+### Functions
+
+TODO
+
+### Equivalence relations
+
+TODO
+
+### Order relations
+
+#### Partial orders
+
+TODO
+
+#### Total orders
+
+TODO
+
+## Exercises
 
 TODO
 

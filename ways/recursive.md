@@ -56,7 +56,7 @@ TODO
 
 TODO
 
-## Exercise
+## Exercises
 
 TODO
 

@@ -4,11 +4,11 @@
 
 TODO
 
-### Exploring all models of a set of axioms
+## Exploring all models of a set of axioms
 
 TODO
 
-### Exploring all axioms that a set of models satisfy
+## Exploring all axioms that a set of models satisfy
 
 TODO
 
@@ -27,10 +27,6 @@ TODO
 TODO
 
 ### Adjusting and calibrating the model
-
-TODO
-
-## Going beyond axioms and models towards a more flexible, loose approach
 
 TODO
 

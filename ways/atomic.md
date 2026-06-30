@@ -20,6 +20,10 @@ TODO
 
 TODO
 
+### Top-down exercise
+
+TODO
+
 ## Bottom-up approach
 
 TODO
@@ -40,7 +44,7 @@ TODO
 
 TODO
 
-## Exercise
+### Bottom-up exercise
 
 TODO
 

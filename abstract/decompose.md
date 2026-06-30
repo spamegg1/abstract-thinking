@@ -14,7 +14,15 @@ TODO
 
 TODO
 
+### Exercise: recognize parts
+
+TODO
+
 ## Recognizing composition operations
+
+TODO
+
+### Exercise: recognize ops
 
 TODO
 
@@ -22,10 +30,20 @@ TODO
 
 TODO
 
-## Exercise
+### Exercise: reverse ops
 
 TODO
 
-## Work in progress
+## Puzzle analogy: shapes and interfaces
+
+TODO
+
+## Complex example with many compositions and decompositions
+
+TODO
+
+## Complex exercise
+
+TODO
 
 [Back to the abstract stuff](README.md)
