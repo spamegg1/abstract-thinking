@@ -1,4 +1,4 @@
-# Our physical senses and the world
+# Our senses and the world
 
 ## Connections to the physical world
 
@@ -8,7 +8,7 @@
 
 - Our brains evolved to deal with the physical world.
 - Our brains create simplified abstract representations of the
-  physical world in our head for problem solving for survival.
+  physical world in our head for problem solving to survive.
 - So most of our abstractions are in some way rooted in physical reality.
 
 ## Pattern recognition

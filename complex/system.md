@@ -3,7 +3,7 @@
 A system is a group of interacting or interrelated elements that act
 according to a set of rules or set of constraints to form a unified whole.
 
-Broadly there are economic systems, biological systems, ecological systems,
+There are economic systems, biological systems, ecological systems,
 logical systems, natural vs. artificial systems, engineered systems,
 autonomous vs. controlled systems and *many, many more*.
 
@@ -22,7 +22,7 @@ TODO
 
 TODO
 
-### Entities
+### Entities, agents
 
 TODO
 
@@ -54,7 +54,19 @@ TODO
 
 TODO
 
-### Stability
+## Nonlinearity
+
+TODO
+
+### Stability and chaos
+
+TODO
+
+### Interactions and feedback
+
+TODO
+
+### Emergent behavior
 
 TODO
 

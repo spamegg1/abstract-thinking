@@ -1,6 +1,8 @@
-# Physical world and our senses
+# Physical world
 
-## Physical world analogies
+## Examples
+
+Many abstract ideas in math + CS come from physical reality.
 
 |     Abstract version| ↔ |Physical version                        |
 |--------------------:|:-:|:---------------------------------------|
@@ -13,12 +15,23 @@
 |      neural networks| ↔ |human brain                             |
 |    OS task switching| ↔ |multi-tasking of the human brain        |
 
-## Examples
+## Exercise: create abstract ideas from physical things
+
+- Group theory example: symmetries of a tetrahedron
+  - 12 orientation-preserving, 24 total
+- CS example: concurrency from traffic intersections
 
 TODO
 
-## An exercise: find physical analogies
+## Exercise: find physical analogies that correspond to abstract ideas
+
+What we are looking for here are *just analogies.*
+Not physical phenomena that perfectly corresponds to the idea.
+
+- Folding
+- Flattening
+- Projection
 
 TODO
 
-[Back to our physical senses and the world](README.md)
+[Back to our senses and the world](README.md)
