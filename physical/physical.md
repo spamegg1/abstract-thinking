@@ -1,8 +1,8 @@
 # Physical world
 
-## Examples
-
 Many abstract ideas in math + CS come from physical reality.
+
+## Examples
 
 |     Abstract version| ↔ |Physical version                        |
 |--------------------:|:-:|:---------------------------------------|
@@ -14,6 +14,9 @@ Many abstract ideas in math + CS come from physical reality.
 |software architecture| ↔ |physical architecture                   |
 |      neural networks| ↔ |human brain                             |
 |    OS task switching| ↔ |multi-tasking of the human brain        |
+
+Here is a survey [article](https://doi.org/10.34133/research.0442)
+of nature-inspired intelligent computing.
 
 ## Exercises: create abstract ideas from physical things
 
@@ -97,11 +100,6 @@ But this is not the abstract idea I want you to come up with!
 
     ![tet-14-23](../images/tet-14-23.png)
 
-8. Can you think of a way to describe all 12 moves as "combinations" of
-    the moves in 1-2-3 and the moves in 4-5-6?
-    Try to find the smallest set of moves that you can think of,
-    that can describe all the other moves as their combinations.
-
 #### Solution
 
 1. We can move by a rotation around the vertical axis:
@@ -150,21 +148,22 @@ But this is not the abstract idea I want you to come up with!
 
     ![tet-r1-r2](../images/tet-r1-r2.png)
 
+    Notice that applying $r_1$ and then $r_2$, is the same as just applying $r_4$.
+    Weird! So if we use the right-to-left algebraic notation: $r_2r_1 = r_4$.
+
     You can play around with many combinations for fun.
+    Try to find other "algebraic laws" like this!
 
 5. This can be done by a 180° rotation around an axis like this:
 
     ![tet-rot-180](../images/tet-rot-180.png)
 
     Such a rotation swaps 1 with 2, and swaps 3 with 4.
+    Since this is a 180° rotation, applying it twice does nothing.
+    So, if we call it $r_{12,34}$, then $r_{12,34}^2 = I$.
 
 6. You can find a similar axis with a 180° rotation that swaps 1-3 and 2-4.
 7. You can find a similar axis with a 180° rotation that swaps 1-4 and 2-3.
-8. TODO
-
-### CS example: concurrency from traffic intersections
-
-TODO
 
 ## Exercise: find physical analogies that correspond to abstract ideas
 
