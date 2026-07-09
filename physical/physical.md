@@ -21,6 +21,51 @@ examples of math + CS ideas found in or inspired by nature.
 |      neural networks| ↔ |human brain                             |
 |    OS task switching| ↔ |multi-tasking of the human brain        |
 
+## Example: seashells and cellular automata
+
+Some life forms like seashells exhibit interesting patterns:
+
+![textile](../images/Textile_cone.JPG)
+
+(Image credit: Copyright (c) 2005 Richard Ling, used under
+[CC3.0 license](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+
+This kind of phenomenon can happen in real life due to some simple physics and chemistry
+of the molecules that create the pigmentations, in addition to the information
+stored in the genetics of the life form for various reasons (like camouflage).
+
+We can abstract away the mechanism that generates these patterns.
+
+1. We can first simplify it:
+    - assume there are only 2 colors, and
+    - assume it's all on a grid.
+
+2. We can imagine some simple rules that determine the colors of a square on the next row,
+  based on the square on the current row, and two of its surrounding squares (left+right).
+  For example, if it's `WHITE WHITE WHITE` then the next square in the middle
+  could also be `WHITE`:
+
+    ||left|mid|right|
+    |:-:|:-:|:-:|:-:|
+    |current|WHITE|WHITE|WHITE|
+    |next|???|WHITE|???|
+
+    Based on this idea, there would have to be 8 rules.
+
+3. By looking at the seashell we can get some inspiration and play around with some rules.
+  As a result, this is the pattern that's generated
+  (with the 8 rules depicted at the bottom of the image):
+
+    ![rule30](../images/Cellular_Automata_running_Wolfram-rule-30.svg.png)
+
+    (Image credit: [Nonenmac](https://en.wikipedia.org/wiki/User:Nonenmac)
+    at [English Wikipedia](https://en.wikipedia.org/wiki/),
+    used under [CC3.0 license](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+
+This type of idea can be taken much further to give rise to cellular automata.
+It gets extremely deep: this simple discrete model of computation is shown to be
+Turing complete, i.e. capable of emulating any arbitrary computation!
+
 ## Exercise: create abstract ideas from physical things
 
 ### Rolling a 4-sided die
