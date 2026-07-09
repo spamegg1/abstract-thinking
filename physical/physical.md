@@ -1,6 +1,12 @@
 # Physical world
 
-Many abstract ideas in math + CS come from physical reality.
+Many abstract ideas in math + CS come from physical reality and nature.
+
+Here is a [survey article](https://doi.org/10.34133/research.0442)
+of nature-inspired computing.
+
+Here is a [wonderful site](https://natureofcode.com) with many
+examples of math + CS ideas found in or inspired by nature.
 
 ## Examples
 
@@ -15,15 +21,12 @@ Many abstract ideas in math + CS come from physical reality.
 |      neural networks| ↔ |human brain                             |
 |    OS task switching| ↔ |multi-tasking of the human brain        |
 
-Here is a survey [article](https://doi.org/10.34133/research.0442)
-of nature-inspired intelligent computing.
-
-## Exercises: create abstract ideas from physical things
+## Exercise: create abstract ideas from physical things
 
 ### Rolling a 4-sided die
 
 Consider a 4-sided die, where I marked the four corners with numbers
-(we could have also marked the four faces instead, it doesn't matter):
+(we could have also marked the four faces instead):
 
 ![tet-01](../images/tet-01.png)
 
@@ -48,7 +51,7 @@ certain configurations are not possible. For example:
 Here 2 and 3 switched places while keeping the rest of the die intact,
 which would be equivalent to bending or twisting it somehow.
 This is not possible for a hard solid object just by rolling it.
-(This is called *preserving the orientation*.)
+(In other words, rolling a die *preserves its orientation*.)
 
 Keeping this in mind, we can draw all the possibilities. There are 12 of them:
 
@@ -58,7 +61,7 @@ But this is not the abstract idea I want you to come up with!
 
 #### Exercise: abstracting the die rolls
 
-1. Think about how (in the physical sense) you can move between these three states:
+1. How (in the physical sense) can you move the die between these three states:
 
     ![tet-01-02-03](../images/tet-01-02-03.png)
 
@@ -66,7 +69,7 @@ But this is not the abstract idea I want you to come up with!
     How would you describe them? Symbols? Figures? Notation?
     Are there relations between them? Can one be described in terms of another?
 
-2. How can you move between these three states:
+2. How can you move the die between these three states:
 
     ![tet-04-05-06](../images/tet-04-05-06.png)
 
@@ -82,7 +85,8 @@ But this is not the abstract idea I want you to come up with!
 
     ![tet-10-11-12](../images/tet-10-11-12.png)
 
-4. Can you think of how to "combine" the moves from 1 with the moves from 2 or 3?
+4. Can you think of a way to "combine" the moves from 1 with the moves from 2 or 3?
+  Are there any relations between combinations? What can you say about them?
 
 5. How to move (in the physical sense) between these two?
 
@@ -99,6 +103,13 @@ But this is not the abstract idea I want you to come up with!
 7. Think similarly to 4-5 to move between these two:
 
     ![tet-14-23](../images/tet-14-23.png)
+
+8. Can you now list all 12 moves, using your descriptions?
+  Each one of the 12 moves should start from the initial die position:
+
+    ![tet-01](../images/tet-01.png)
+
+  and end with one of the 12 positions (including the initial itself).
 
 #### Solution
 
@@ -133,7 +144,7 @@ But this is not the abstract idea I want you to come up with!
     Then applying $r_4$ three times in a row gets us back to the same state,
     in other words it does nothing. It's like 0 in addition or 1 in multiplication.
     This is called an "identity" element. Let's call this move $I$.
-    Then algebraically $r_4^3 = I$.
+    Then algebraically $r_4^3 = I$. We could say that $r_4$ "has degree 3".
 
     Warning! This "multiplication" notation needs some care, because it won't be
     the same as the usual multiplication of numbers. Order matters!
@@ -153,6 +164,9 @@ But this is not the abstract idea I want you to come up with!
 
     You can play around with many combinations for fun.
     Try to find other "algebraic laws" like this!
+    There are way too many of them, I don't expect you to write them all down.
+    [Here is a list](https://proofwiki.org/wiki/Alternating_Group_on_4_Letters)
+    in case you are curious (although they use different notation).
 
 5. This can be done by a 180° rotation around an axis like this:
 
@@ -160,15 +174,76 @@ But this is not the abstract idea I want you to come up with!
 
     Such a rotation swaps 1 with 2, and swaps 3 with 4.
     Since this is a 180° rotation, applying it twice does nothing.
-    So, if we call it $r_{12,34}$, then $r_{12,34}^2 = I$.
+    So, if we call it $r_{12,34}$, then $r_{12,34}^2 = I$. So it has order two.
 
 6. You can find a similar axis with a 180° rotation that swaps 1-3 and 2-4.
 7. You can find a similar axis with a 180° rotation that swaps 1-4 and 2-3.
+8. Let's start by listing all 12 that we have:
+  $I, r_1, r_1^2, r_2, r_2^2, r_3, r_3^2, r_4, r_4^2, r_{12,34}, r_{13,24}, r_{14,23}$.
+
+  Normally we would have to be careful that there isn't some subtle relation between
+  these that causes a repetition, in other words we'd have to make sure that
+  these moves are all different from each other. But let's not worry about that for now.
+
+  Here is ONE WAY to describe the 12 moves (there are many other, equivalent ways).
+  If we number all the states like this
+
+  ![tet-all-num](../images/tet-all-num.png)
+
+  then:
+
+  1. $I$ moves `1.` to `1.`
+
+      ![tet-id](../images/tet-id.png)
+
+  2. $r_1$ moves `1.` to `7.`
+
+      ![tet-r1](../images/tet-r1.png)
+
+  3. $r_2$ moves `1.` to `6.`
+
+      ![tet-r2](../images/tet-r2.png)
+
+  4. $r_3$ moves `1.` to `8.`
+
+      ![tet-r3](../images/tet-r3.png)
+
+  5. $r_4$ moves `1.` to `2.`
+
+      ![tet-r4](../images/tet-r4.png)
+
+  6. $r_1^2$ moves `1.` to `4.`
+
+      ![tet-r1sq](../images/tet-r1sq.png)
+
+  7. $r_2^2$ moves `1.` to `11.`
+
+      ![tet-r2sq](../images/tet-r2sq.png)
+
+  8. $r_3^2$ moves `1.` to `10.`
+
+      ![tet-r3sq](../images/tet-r3sq.png)
+
+  9. $r_4^2$ moves `1.` to `3.`
+
+      ![tet-r4sq](../images/tet-r4sq.png)
+
+  10. $r_{12,34}$ moves `1.` to `5.`
+
+      ![tet-r1234](../images/tet-r1234.png)
+
+  11. $r_{13,24}$ moves `1.` to `9.`
+
+      ![tet-r1324](../images/tet-r1324.png)
+
+  12. $r_{14,23}$ moves `1.` to `12.`
+
+      ![tet-r1423](../images/tet-r1423.png)
 
 ## Exercise: find physical analogies that correspond to abstract ideas
 
 What we are looking for here are *just analogies.*
-Not physical phenomena that perfectly corresponds to the idea.
+Not physical phenomena that perfectly correspond to the ideas.
 
 - Folding
 - Flattening
