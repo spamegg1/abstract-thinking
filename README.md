@@ -190,7 +190,7 @@ and start solving while being *conscious* of which thinking patterns you are usi
 
 ***First, the human side of things:***
 
-[Our physical senses and the world](physical/README.md)
+[Our senses and the physical world](physical/README.md)
 
 [Our subconscious stuff](subconscious/README.md)
 

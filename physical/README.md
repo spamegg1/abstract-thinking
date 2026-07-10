@@ -1,4 +1,4 @@
-# Our senses and the world
+# Our senses and the physical world
 
 ## Connections to the physical world
 

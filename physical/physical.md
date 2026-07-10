@@ -145,7 +145,7 @@ But this is not the abstract idea I want you to come up with!
 
     Is there a similarity between this and the previous?
 
-7. Think similarly to 4-5 to move between these two:
+7. Think similarly to 5-6 to move between these two:
 
     ![tet-14-23](../images/tet-14-23.png)
 
@@ -285,15 +285,68 @@ But this is not the abstract idea I want you to come up with!
 
       ![tet-r1423](../images/tet-r1423.png)
 
-## Exercise: find physical analogies that correspond to abstract ideas
+## Exercises: find physical analogies that correspond to abstract ideas
 
-What we are looking for here are *just analogies.*
+Here we are looking for *just analogies.*
 Not physical phenomena that perfectly correspond to the ideas.
+Can you think of a physical analogy to these ideas?
+There are many possibilities. Try to think of a verb for each one, if possible.
 
-- Folding
-- Flattening
-- Projection
+### Exercise 1
 
-TODO
+Consider working through a list of numbers and adding them up, or multiplying them:
 
-[Back to our senses and the world](README.md)
+```py
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+   [3, 3, 4, 5, 6, 7, 8, 9]
+      [6, 4, 5, 6, 7, 8, 9]
+        [10, 5, 6, 7, 8, 9]
+           [15, 6, 7, 8, 9]
+              [21, 7, 8, 9]
+                 [28, 8, 9]
+                    [36, 9]
+                        45
+```
+
+### Exercise 2
+
+Consider a list that contains other lists, and converting them all into a single list.
+For example, turning this:
+
+```py
+             8
+      4      9
+   2  5     10  12
+1, 3, 6, 7, 11, 13
+```
+
+![list-of-lists](../images/list-of-lists.png)
+
+into this:
+
+```py
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+```
+
+### Exercise 3
+
+In two or three dimensional Cartesian coordinate systems, points like $(x, y)$
+or $(x, y, z)$ can be converted to lower dimensional versions:
+
+![proj-2d](../images/proj-2d.png)
+
+![proj-3d](../images/proj-3d.png)
+
+The same abstract idea works more generally in higher dimensions too.
+
+### Solutions
+
+Obviously there is no right or wrong answer here.
+If you found other analogies, great!
+
+1. Folding: think of it like folding a long piece of paper little by little in stages.
+  Another good one is "snowballing" or "avalanche"! 😄
+2. Flattening: like pushing it down to the ground or taking the air out of it.
+3. Projecting: like how light can be projected onto walls or screens.
+
+[Back to our senses and the physical world](README.md)
