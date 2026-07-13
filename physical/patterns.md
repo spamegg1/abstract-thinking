@@ -1,21 +1,86 @@
 # Patterns
 
-> Do not think of this as a comprehensive list of patterns to be memorized.
-> Rather think of it as an incomplete list of various ways
-> we recognize patterns and how we think about them.
+## What they are
+
+Patterns are regularities in the physical world (natural or artificial)
+and in the abstract world of ideas.
+
+We could list thousands of patterns that we see in the world, like
+
+- natural patterns:
+  - symmetries (snowflakes, starfish etc.)
+  - spirals (plants, shells etc.)
+  - meanders (seas, rivers, winds, vortexes)
+  - waves (sand dunes, seas, oceans)
+  - foam (bubbles)
+  - cracks (land)
+  - spots, stripes (animals, plants)
+  - many more
+- man-made patterns in:
+  - tilings
+  - architecture
+  - language
+  - music
+  - science
+  - mathematics (fractals)
+  - software (design patterns)
+
+and so many more...
+
+## What we want to do
+
+Of course all our thinking and recognition is in some way or another
+coming from the physical world. ***But that's not our main goal here***.
+
+Instead we'd like to:
+
+- understand these "real world" patterns to know where our pattern recognition comes from,
+- transition from these patterns to more abstract patterns,
+  - discovering ways to think about them along the way.
+
+Do not think of this as a comprehensive list of patterns to be memorized.
+Rather think of it as an incomplete list of various ways
+we recognize patterns and how we think about them.
+
+## Some ways to think about patterns
+
+Think about the underlying reasons for patterns. For example, in nature:
+
+- snowflake patterns happen due to bonds between water molecules
+- sand dune patterns happen due to physical forces like wind
+- ecological patterns happen due to food, shelter and mating resource limitations
+
+We can try to think about the underlying reasons for abstract patterns as well.
+Then we can incorporate these into our thinking.
+
+TODO
+
+## Some categories of patterns
 
 - Humans are comparison machines, which give rise to *order patterns*.
 - Humans also see spatial patterns, which give rise to *geometric / topological patterns*.
 - Humans are story-oriented, which gives rise to *temporal patterns*.
   - Some of these can also be viewed as *causal patterns*.
-- Humans see and form relations everywhere between things / people, which give rise to *relational patterns*.
-- Humans observe / exhibit behaviors and think behaviorally, which gives rise to *behavioral patterns*.
+  - They can be combined to create *spatiotemporal patterns.*
+- Humans see and form relations everywhere between things / people,
+  which give rise to *relational patterns*.
+- Humans observe / exhibit behaviors and think behaviorally,
+  which gives rise to *behavioral patterns*.
+
+Once again, this is not meant to be a complete list, which is impractical.
+They can also be combined in so many ways, which we will not list (but will see examples).
+Also, we could possibly dissect these into even deeper,
+smaller patterns, but it gets too abstract and impractical.
 
 ## Order patterns
+
+### The sense of smaller / bigger, before / after
 
 TODO
 
 ### Order example
+
+TODO
 
 ## Spatial patterns
 
