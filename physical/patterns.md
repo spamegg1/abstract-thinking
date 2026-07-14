@@ -30,7 +30,7 @@ and so many more...
 ## What we want to do
 
 Of course all our thinking and recognition is in some way or another
-coming from the physical world. ***But that's not our main goal here***.
+based on the physical world. ***But that's not our main goal here***.
 
 Instead we'd like to:
 
@@ -46,22 +46,34 @@ we recognize patterns and how we think about them.
 
 Think about the underlying reasons for patterns. For example, in nature:
 
-- snowflake patterns happen due to bonds between water molecules
+- snowflake patterns happen due to bonds between water molecules (and other forces)
 - sand dune patterns happen due to physical forces like wind
 - ecological patterns happen due to food, shelter and mating resource limitations
 
-We can try to think about the underlying reasons for abstract patterns as well.
-Then we can incorporate these into our thinking.
+In man-made patterns:
+
+- architectural patterns emerge from repeating and reusing parts of buildings
+  - can be cultural or aesthetic too
+- software patterns emerge from solving the same problems and noticing common solutions
+
+We can notice reasons for patterns and incorporate them into our thinking.
+
+Usually one or more of the following reasons can be found in a pattern:
+
+- *constraint* (physical or resource)
+- *dependence* or *relation* (between things)
+- *cause and effect chain*
+- *structure* (imposed by a solution to a problem)
 
 TODO
 
-## Some categories of patterns
+## Some abstract thinking ways for patterns
 
 - Humans are comparison machines, which give rise to *order patterns*.
 - Humans also see spatial patterns, which give rise to *geometric / topological patterns*.
 - Humans are story-oriented, which gives rise to *temporal patterns*.
   - Some of these can also be viewed as *causal patterns*.
-  - They can be combined to create *spatiotemporal patterns.*
+  - They can be combined to form *spatiotemporal patterns.*
 - Humans see and form relations everywhere between things / people,
   which give rise to *relational patterns*.
 - Humans observe / exhibit behaviors and think behaviorally,
